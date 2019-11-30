@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import re
+from string import punctuation
 from collections import Counter
 import nltk
 from nltk.corpus import stopwords
