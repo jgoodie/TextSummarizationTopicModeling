@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import re
 from collections import Counter
 import nltk
@@ -28,10 +30,10 @@ class SimpleSummarize:
     def load_file_from_disk(self, filename):
         with open(filename, "r") as file:
             self.txt = file.read().replace("\n", " ")
-            self.txt = txt.replace("\'","")
+            self.txt = self.txt.replace("\'","")
     
     def tokenize(self):
-        self.word_tokens = tokenizer(self.txt)
+        self.word_tokens = self.tokenizer(self.txt)
         self.sent_tokens = sent_tokenize(self.txt.lower())
 
     def tokenizer(self,txt):
@@ -66,3 +68,12 @@ class SimpleSummarize:
             self.summary += t[0].strip()+'. '
             self.scores.append((t[1],t[0]))
     
+
+def main():
+    text_summary = SimpleSummarize(filename="CNNImpeachmentArticle.txt", k=3)
+    print(text_summary.summary)
+    print(text_summary.scores)
+
+
+if __name__ == '__main__':
+    main()
