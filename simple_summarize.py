@@ -35,7 +35,7 @@ class SimpleSummarize:
     
     def tokenize(self):
         self.word_tokens = self.tokenizer(self.txt)
-        self.sent_tokens = sent_tokenize(self.txt.lower())
+        self.sent_tokens = sent_tokenize(self.txt)
 
     def tokenizer(self,txt):
         txt = txt.lower()
