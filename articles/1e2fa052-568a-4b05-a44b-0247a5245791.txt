@@ -1,0 +1,47 @@
+While Bitcoin has received the lion’s share of attention since its conception, recently the Blockchain — the distributed public database used to record Bitcoin transactions — has just begun entering the spotlight for enabling some important capabilities outside of Bitcoin.
+
+“It’s my belief that Blockchain technology will be as important to the world as Gutenburg’s printing press,” Nic Cary, cofounder of Blockchain.info, told me recently. “For the first time in the history of the world we can reimagine how the world transacts without relying on an intermediary.”
+
+Here are four unexpected ways the Blockchain might change the world:
+
+1. Distributed Cloud Storage
+
+The Blockchain has already been manipulated to store information in unscaleable ways. A niche storage trick is sending small amounts of Bitcoin to addresses that represent information when converted into a Unicode format. For example, the above image of Nelson Mandela is recorded in this transaction.
+
+Besides being a hobby for techies, Blockchain data storage could be disruptive. Current cloud storage services are centralized — thus users must place trust in a single storage provider. With the Blockchain, this can become decentralized. For instance, Storj is beta-testing cloud storage using a Blockchain-powered network to improve security and decrease dependency. Additionally users can rent out their excess storage capacity, Airbnb-style, creating new marketplaces.
+
+“Simply using excess hard drive space, users could store the traditional cloud 300 times over,” Storj founder Shawn Wilkinson told me. “Considering the world spends $22 billion + on cloud storage alone, this could open a revenue stream for average users, while significantly reducing the cost to store data for companies and personal users.”
+
+2. Unbreakable Contracts
+
+Smart contracts are contracts that are self-enforcing or self-executing. The Blockchain’s role in the contract is to replace a third party required to resolve a legal dispute. Known as “smart properties” or “colored coins,” a token could be used to represent any asset, from stocks to cars. The ability to hard-code transfer of ownership when trading these assets can potentially create “unbreakable” contracts.
+
+For example, imagine a red-widget factory receives an order from a new customer to produce 100 of a new type of blue widget. This requires the factory to invest in a new machine and they will only recoup this investment if the customer follows through on their order.
+
+Instead of trusting the customer or hiring an expensive lawyer, the company could create a smart property with a self-executing contract. Such a contract might look like this: For every blue widget delivered, transfer price per item from the customer’s bank account to the factory’s bank account. Not only does this eliminate the need for a deposit or escrow — which places trust in a third party — the customer is protected from the factory under-delivering.
+
+Although this remains mostly theory, platforms like Ethereum are bringing smart contracts closer to reality. Additionally, because data stored in the Blockchain cannot be tampered with, basic contracts like marriages have already been recorded in code.
+
+3. The End of Patents
+
+Unlike smart contract platforms, ProofOfExistence.com (PoE) has launched basic legal services that can be used today. As one of the first non-financial uses of the Blockchain, PoE stores encrypted information on the Blockchain. This enables an irreplicable transaction hash to be associated with a unique document that is stored off the Blockchain.
+
+The best use-case for this could be replacing patents. A company such as Apple might want to prove it created a technology at a certain date without filing for a publically-known patent. If anyone challenges its ownership of a technology, it could later reveal internal documents that are linked to the transaction hash, thus proving existence at the date specified on the Blockchain.
+
+PoE may be one of the few working Blockchain use-cases, but founder Manuel Araoz told me, “I hope to see many new apps leveraging the non-financial decentralized consensus platform Bitcoin provides in 2015.”
+
+4. Electronic Voting (Finally)
+
+The automation of counting paper votes is a no-brainer for cost, time, and accuracy improvements. However, previous systems have been riddled with technical issues. The main problems are the inability to verify a machine’s accuracy during recounts and being prime targets for hackers. It is not surprising that political parties have already turned to the Blockchain for their internal voting.
+
+The Blockchain is a secure network because each transaction is encrypted with a hash that is used to verify the succeeding hash. Simply put, this means that changing one vote requires millions of votes to be changed before another vote is cast. The network is protected by the simple fact that no hacker has enough computing power to rewrite so many votes that quickly. A hacker would actually need more computing power than the top 500 supercomputers combined, 256 times over.
+
+On the accuracy front, Blockchain’s pseudonymity allows each vote to be publically shared without identifying the voter. Hence, each voter could check their vote has been counted from public records. This may one day eliminate election corruption in the undeveloped world.
+
+Summary
+
+There are almost endless applications of the Blockchain. However, most of these applications are at a pre-alpha development stage. With $667.55 million invested to date in Bitcoin and Blockchain startups, do not be surprised to see the Blockchain slowly creeping into your life.
+
+As Nic Cary of Blockchain.info said, ‘”Check it on the Blockchain” will be the phrase of the 21st century. It will be as commonplace as people saying “Google that.”
+
+Josh Blatchford is CMO of BTC.sx, a Bitcoin trading platform that allows users to go long or short on Bitcoin. Josh previously ran his own marketing agency and actively writes Bitcoin articles and analysis for the Bitcoin community.

@@ -1,0 +1,247 @@
+We are all about working smarter here at Buffer. Our focus on improvement and efficiency has led us to blog smarter, share smarter, and approach problems and activities with a fresh perspective of getting more done as quickly and simply as possible.
+
+To that end, we love automation. We get a kick out of tools and apps that do some of the work for us, leaving us more time to invest elsewhere.
+
+IFTTT is one of our favorite tools (and one that I’d imagine you might love as well). We use IFTTT in a number of neat ways here at Buffer, and there are loads of different options available through IFTTT for powering up your social media marketing.
+
+I thought I’d share a few of our favorites and some that might help you work smarter, too.
+
+Jump ahead to see the full list of favorite IFTTT recipes in our collection at the IFTTT website!
+
+How IFTTT works: An overview
+
+IFTTT (an acronym for If This, Then That) connects two services together so that an action from one service triggers an action at another.
+
+You could have an email trigger a tweet, or a Facebook post could trigger a download. I’m getting a little ahead of myself, though. There are lots of these connections (IFTTT calls them “recipes”) down below.
+
+Once you sign up for your free IFTTT account, you can start connecting different channels such as email or Facebook. IFTTT has more than 200 channels in all, and it is constantly adding to its lineup.
+
+Here are the major social media services that work with IFTTT:
+
+Facebook (profiles, pages, and groups)
+
+Twitter
+
+Instagram
+
+LinkedIn
+
+Reddit
+
+Tumblr
+
+YouTube
+
+Pinterest
+
+(No Google+ yet, but as you’ll read below, there are some workarounds.)
+
+Beyond social media services, IFTTT connects with a vast number of other channels, including both apps and hardware. These range from straightforward channels like email, text message, and GPS to unique and creative channels like electronic piggy banks and smart lightbulbs. Here is just a sampling of a few notable channels IFTTT can connect.
+
+Pocket
+
+Jawbone Up
+
+Soundcloud
+
+Gmail
+
+Google Calendar
+
+Evernote
+
+Buffer
+
+Craigslist
+
+Dropbox
+
+Feedly
+
+When you’re ready to get started with a recipe, you can browse the gallery of popular and trending recipes, or you can make one from scratch. Each channel has a landing page of its own, too, which explains all the possibilities you can do with triggers and actions. (Click here for an example page for Twitter.)
+
+Any recipe can be paused or stopped whenever you like, so feel free to experiment! We’ve got a great list of recipes to try below.
+
+(At Buffer, we also use the premium automation service Zapier for a few of our more high-powered connections. Zapier lets you have five recipes free and then offers paid plans for those who are interested in more. Zapier has more than 400 channels you can connect, compared to 200 at IFTTT. We enjoy using each service—they seem to each cater well to their unique audience.)
+
+The 10 most popular Buffer recipes (and a few of my personal faves)
+
+We’ve had the great chance to be in touch with the IFTTT team to find out the many cool ways that people enjoy using Buffer and IFTTT. Here are some of the top recipes.
+
+If new status message on Facebook page, then add to Buffer (here) If new Instagram photo by you, then add to Buffer (here) If new tweet by you, then add to Buffer (here) If new DO Note by you, then add to Buffer (here) If new Feed item, then add to Buffer (here) If new WordPress post by you, then add to Buffer (here) If new DO Photo by you, then add to Buffer (here) If new Feedly source, then add to Buffer (here) If any new post in Buffer, then add to Google Calendar (here) If new Instagram post by a specific user, then add to Buffer (here)
+
+To elaborate a bit on this list—and to surface a couple recipes that have been particularly helpful for me—here is some greater detail on a few favorites. You can find all of these on the main page of IFTTT’s Buffer channel.
+
+Add your Instagram photos to your Buffer queue (try it out!)
+
+This makes for a great workaround for those balancing social media marketing on Instagram plus other places. IFTTT can grab the photo URL from Instagram as well as the caption and create an update on a new network.
+
+Build a social media calendar in Google Calendar every time you Buffer (try it out!)
+
+With this recipe, you can build your own editorial calendar as each time your queue gets updated with a newly scheduled post, your calendar updates also.
+
+Save for later in Feedly and send those favorites to Buffer (try it out!)
+
+Feedly is one of our favorite tools for curating content, and this recipe makes it quite easy for those who already enjoy using Feedly’s Save for Later button. All Saved for Later posts go straight to Buffer.
+
+Add a new photo you’ve taken straight to Buffer (try it out!)
+
+One of IFTTT’s newer features is the “Do” option, where you can take actions directly via IFTTT’s Do app. For this recipe in particular, if you have the Do camera installed, every new picture goes automatically to your Buffer.
+
+Store all your Buffered posts in a spreadsheet (try it out!)
+
+I get a lot of use out of this one for building an archive of tweets & updates that I can easily reference later. It’s also great for reposting, as I can download my tweets as a csv, upload to Buffer via Bulk Buffer, and edit them again right inside the Buffer app.
+
+Mark a post as favorite in Pocket, and send to Buffer with an image (try it out!)
+
+I find that I save a ton of content to Pocket, so this recipe is a big time-saver for me. All the stories that I mark as favorite go right into my Buffer queue, with the main image from the story attached.
+
+Send posts from your RSS feed automatically to your Buffer queue (try it out!)
+
+To make sure all my new posts get shared on social, I’ll use a recipe like this one to add the posts directly to my Buffer queue.
+
+IFTTT recipes to supercharge Twitter
+
+Save links from favorite tweets to Pocket (try it out!)
+
+This recipe grabs the first link in a tweet that you’ve favorited and adds the article to your Pocket, a read-it-later app. You can also save links in this way to Instapaper or Evernote, if you prefer those services.
+
+When your Facebook profile picture changes, update your Twitter profile picture (try it out!)
+
+If you’re interested in keeping things uniform across your social media channels, this IFTTT recipe makes it quick and easy to keep a consistent profile image. Update on Facebook, and your Twitter profile changes, too.
+
+Add Tweets to a Google Spreadsheet (try it out!)
+
+This one has a huge number of variations, but the intent is pretty similar: You use this recipe to create an archive of what you’ve posted to social media. Here are a few ideas:
+
+Save all your tweets to a Google Spreadsheet
+
+Save all the links you tweet to a Google Spreadsheet
+
+Save all your tweets with a certain hashtag to a Google Spreadsheet
+
+You can do variations of this recipe with other social networks and other archiving apps (like Evernote). You may enjoy using the resulting spreadsheet for weekly, monthly, or quarterly reviews of what you’ve posted, or you can keep track of tweets and links so you don’t repeat yourself with content. I’ve used a similar recipe for coming up with some of our content suggestions here at Buffer.
+
+Buffer a tweet every time you favorite a story (try it out!)
+
+Talk about a quick automation! I use this one regularly to add my favorite articles from Pocket straight to my Buffer queue. The recipe grabs the default text from Pocket (the title and url of the post), and I can easily hop back into Buffer later to tidy up my queue and customize the information I want.
+
+Create a Google Calendar view of your Tweet schedule via Buffer (try it out!)
+
+Editorial calendars are a fun way to keep track of the content you share, and IFTTT makes this look back easy and handy with an integration with Google Calendar. Connecting Google Calendar to Buffer makes it so that you can have each and every tweet added to your calendar for easy, visual reference of what your schedule looks like and what you’ve posted.
+
+Post Instagram photos as Twitter photos (try it out!)
+
+If you use Instagram and Twitter, you’ve likely run into the fact that the two sites don’t sync very well. An IFTTT recipe can help with this. You can have your new Instagram photos post as native photos directly to Twitter.
+
+Other favorites:
+
+RSS to Twitter: Send each new post straight into your Twitter timeline and customize the way the new tweet is worded.
+
+Send each new post straight into your Twitter timeline and customize the way the new tweet is worded. Add new Twitter followers to a Google spreadsheet : You can collect all the names, locations, links, and bios of every new follower.
+
+: You can collect all the names, locations, links, and bios of every new follower. Tweet a thank you to new followers : If you’re into automatic thanking, IFTTT can send a message of your choosing to each and every new account who follows you.
+
+: If you’re into automatic thanking, IFTTT can send a message of your choosing to each and every new account who follows you. Automatic #ff tweet: Auto-generate a Follow Friday tweet for everyone you’ve favorited in the last week.
+
+IFTTT recipes to make the most of Facebook
+
+Download photos you’re tagged in to Dropbox (try it out!)
+
+You can have IFTTT back up all your Facebook photos automatically with this recipe. The one above backs up those photos that have you tagged specifically, and there are other neat ways of setting the backups, too—back up everything, back up certain albums, etc.
+
+Photos added to a specific album in iOS get added automatically to Facebook (try it out!)
+
+If you snap a lot of photos on your phone, this one might come in handy. You can share directly to Facebook each time you take a photo and add to a specific album on iOS. (You can do the same with Instagram photos as well.)
+
+Send your Facebook Page posts to your Google+ page via Buffer (try it out!)
+
+Google+ is not one of IFTTT’s connected services, but you can do a neat little workaround using Buffer. In this example, each of your Facebook Page posts can be buffered to update your Google+ page. When you set up your Buffer, just be sure to select a Google+ page as your connected profile.
+
+Send Pinterest board posts to your Facebook Page (try it out!)
+
+Your Pins can be triggers for updates to Facebook Pages, Tweets, Google+ posts (via Buffer), or even Tumblr.
+
+Send new Facebook Page posts to LinkedIn pages, too (try it out!)
+
+You may find that the content you share on Facebook and LinkedIn is quite similar in style and tone. If so, it might save you time to crosspost all your Facebook content straight to LinkedIn. To keep things as easy as possible, you can run this recipe so that you only have to publish updates once, yet both places will be updated.
+
+Other favorites:
+
+RSS to Facebook page : Just like the Twitter RSS recipe, this one adds new posts from your chosen feed, and you can customize the way they’re worded and displayed on your timeline.
+
+: Just like the Twitter RSS recipe, this one adds new posts from your chosen feed, and you can customize the way they’re worded and displayed on your timeline. Archive Facebook posts to a Google spreadsheet: Keep a record of all your updates in a Google spreadsheet where you can analyze and organize as you like.
+
+Assorted IFTTT social media and productivity recipes
+
+Mark Watch Later on a Vimeo video, and save the video to Pocket (try it out!)
+
+I use Pocket all the time. I rarely visit Vimeo. So this recipe saves me some time and energy by putting all the Vimeo videos I want to watch right into my Pocket feed. The same thing can be accomplished with YouTube, too.
+
+Share your latest feedly subscriptions in Buffer (try it out!)
+
+Interested in letting your audience know where you curate all your cool content? This recipe shares the new RSS feeds that you add to Feedly, publishing them via your Buffer. (You can also publish directly to Twitter, Facebook, LinkedIn, etc. with a custom recipe.)
+
+Send Feedly “Saved for Later” items to Buffer (try it out!)
+
+Another fun Feedly trick is to mark your favorite articles directly in Feedly and push these favorites into your Buffer queue. The recipe works similarly to the one above about starred articles in Pocket. It just comes down to which tools you use most (maybe both?).
+
+Send any text message to a Twitter or Facebook queue via Buffer (try it out!)
+
+This recipe is perfect for when you’re out and about and inspiration strikes. You can send a text message that can go straight into your Buffer queue for your Twitter, Facebook, Google+, or LinkedIn account (whichever one you’ve connected). Your text update then gets published at an optimal time.
+
+If you post a photo to Instagram, attach it to a Buffer post (try it out!)
+
+Depending on how you have your Buffer connected, this recipe could help you sync your Instagram to your Twitter, Google+, Tumblr, or any other number of apps. It’s a personal favorite of a few of us on the Buffer team.
+
+Curate content by storing a set of links in a spreadsheet (try it out!)
+
+I use this recipe to collect top digital marketing links that I’ve read in Pocket, adding them to a spreadsheet that I can reference later.
+
+Just plain fun IFTTT recipes
+
+Wish people a happy birthday automatically on Facebook (try it out!)
+
+Never forget another friend’s birthday again with this automatic birthday greeting. The recipe checks your Google Calendar events for a certain keyword (e.g., “Birthday”) and sends a customizable update to your Facebook feed.
+
+Let your Facebook friends know when an astronaut is hosting a Reddit AMA (try it out!)
+
+Think your Facebook friends might be interested in astronaut knowledge? (I know mine would!) This recipe runs each time Reddit has an Ask Me Anything with an astronaut.
+
+For those getting started with IFTTT, receive a new recipe in your email each day (try it out!)
+
+As this post has probably made you realize, there are a lot of different ways to use IFTTT to work smarter. If you’re interested in getting your feet wet, this introductory, daily email might be just the ticket.
+
+Turn on a light show when you arrive home (try it out!)
+
+IFTTT connects with the Hue lightbulb from Phillips, a smart lightbulb that can turn on/off and change lights digitally and remotely. One of Hue’s settings is a color loop—basically, a light show. When this action is connected to a GPS trigger like pulling into your driveway, you can set off a light show to greet you at the door.
+
+Here’s a video of the color loop in action:
+
+
+
+(The creator of the recipe notes that his kids think he’s magic because the lights dance every time he comes home.)
+
+Other favorites:
+
+Shuffle your liked Instagram photos into a screensaver : This recipe sends Instagram likes to a Dropbox folder that you can set to run as a screensaver.
+
+: This recipe sends Instagram likes to a Dropbox folder that you can set to run as a screensaver. Create a log of receipts : Every time you receive a new email receipt, you can give the receipt a label, and this recipe will send the labeled message to Evernote.
+
+: Every time you receive a new email receipt, you can give the receipt a label, and this recipe will send the labeled message to Evernote. Download Soundcloud favorites to Google Drive : Keep the files of the music/podcasts/audio you like on Soundcloud by storing your favorites in the cloud.
+
+: Keep the files of the music/podcasts/audio you like on Soundcloud by storing your favorites in the cloud. Turn on the lights when you wake up: This recipe connects the Hue light bulb with your Jawbone UP. When you set your Jawbone UP to “awake” mode in the morning, your lights will turn on.
+
+Your turn: What recipes do you use?
+
+As you can see, there are a huge number of tricks, tips, hacks, and recipes to run to help you work smarter and supercharge your marketing and productivity. I’ve collected all the ones mentioned here in a list on IFTTT. Here’s a sample platter graphic:
+
+Which IFTTT recipes do you use? What are you excited to try?
+
+I’d love to hear from you in the comments and see how we can all work a little smarter together!
+
+Image sources: Wikipedia.
+
+Editor’s Note: This post originally published on May 7, 2014. We’ve updated it here with the latest IFTTT recipes and favorites.
+
+Originally written Jul 17, 2015. Last updated Sep 20, 2017

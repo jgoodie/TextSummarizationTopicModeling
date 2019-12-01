@@ -1,0 +1,191 @@
+Ideal social media image size summary Looking for more details for a particular social platform? Click on one of the platforms below to jump to the relevant section: Facebook Sharing images: 1,200 x 628 pixels
+
+Sharing links with an image: 1,200 x 628 pixels
+
+Sharing Stories: 1,080 x 1,920 pixels* Instagram Sharing square images: 1,080 x 1,080 pixels
+
+Sharing horizontal images: 1,080 x 566 pixels
+
+Sharing vertical images: 1,080 x 1,350 pixels
+
+Sharing Stories: 1,080 x 1,920 pixels* Twitter Sharing a single image: 1,200 x 675 pixels
+
+Sharing multiple images: 1,200 x 675 pixels
+
+Sharing links with an image: 800 x 418 pixels LinkedIn Sharing images to Company Page or personal profile: 1,104 x 736 pixels (1,200 x 627 pixels with Buffer)
+
+Sharing links with an image to Company Page or personal profile: 1,200 x 628 pixels Pinterest Sharing images: 800 x 1,200 pixels Snapchat Sharing images: 1,080 x 1,920 pixels* * If you are finding that your Stories are cropped on the side, it could be that you or your viewers are using a phone with a larger display (e.g. iPhone X or Samsung S8). To optimize your Stories for phones with a larger display, try 1,080 pixels wide by 2,340 pixels tall (hat tip to Snapchat!) Once you have found out the ideal image size for your social media posts, we would love to help you with your social media scheduling. Try our 14-day free trial and experience the ease.
+
+You’ve got all the great tools to create engaging images for social media. You know what the brain loves about visuals and how to build something beautiful to drive engagement. You’re all set to make something great!
+
+One last thing: How exactly should your image look so it fits in the News Feed, timeline, or stream?
+
+There’s so much to consider in creating great images for social media—for me, the size and shape tend to get locked in before I even realize what’s happened. Yet the size and shape — the height, width, and orientation — are the elements that most influence how an image will appear in a social media stream.
+
+For example, I didn’t get the image size right for a tweet and part of the image was cropped away on the mobile feed. 🙈
+
+Fortunately, there are some answers out there on how to create ideal images that show up consistently great in your audience’s timelines. We’ve collected all the answers here.
+
+Ideal social media image sizes for your posts
+
+Image sizes are a huge topic to cover.
+
+There are ideal image sizes for cover photos, profile pictures, Facebook ads, and Twitter cards. Several in-depth blog posts have tackled an overview of what’s best in all these many different spots.
+
+In this post, I’d love to focus specifically on the social media images you share with your updates, either as image attachments or as links.
+
+Also, most of the major social media channels like Facebook and Twitter now give you added control over how your profile picture and cover photo look. You get some really neat tools to resize and scale these pictures until they’re pixel perfect.
+
+Here’s the process for a Facebook cover photo, for example.
+
+For ideal sizes on cover photos and profile pictures, here are two of my favorites:
+
+Ideal Facebook image sizes
+
+Sharing images: 1,200 x 628 pixels
+
+Sharing links with an image: 1,200 x 628 pixels
+
+Sharing images – 1,200 x 628 pixels
+
+Whether you’re sharing landscape, portrait, or square images, Facebook will resize it to 500 pixels wide and scale the height accordingly.
+
+The good news here is that you don’t have to worry about your image size when sharing images to Facebook! Almost all images will look great on your audience’s News Feed. (I used “almost” because Facebook seems to still require an aspect ratio between 9:16 to 16:9 — which is a huge range.)
+
+To keep things simple, I’ll recommend creating images that are 1,200 pixels wide by 628 pixels tall. This is the ideal size for images in link preview, as you’ll read next. Of course, if you want to share a vertical image, that’s totally cool, too!
+
+Sharing links with an image – 1,200 x 628 pixels
+
+When you share a link to Facebook, Facebook will show an image in the link preview. Facebook looks at the Open Graph tags for the link, specifically the og:image tag, which specifies the image that Facebook should use when sharing in the News Feed.
+
+You can add the og:image tag manually into the <head> section on every page of your website, or you can try out a plugin like Yoast SEO for WordPress, which handles the code and implementation for you. (We’re big fans of the Yoast plugin for the Buffer blog.)
+
+(If you have verified your domain with Facebook, you can also customize the image — and headline and description — of links from your website with Buffer, without having to touch your website code.)
+
+The ideal dimensions are 1,200 pixels wide and 628 pixels tall. Facebook will crop and resize the image preview to 500 pixels wide and 261 pixels tall (aspect ratio of 1.91:1). As Facebook seems to crop the image from the bottom up, try to keep the important details at the top of the image if you can’t keep to the ideal size.
+
+For a carousel post, each image is cropped to fit a 300 x 300-pixel square.
+
+Sharing Stories – 1,080 x 1,920 pixels
+
+Facebook Stories take up the full phone screen so the ideal size is 1,080 pixels wide by 1,920 pixels tall (aspect ratio of 9:16).
+
+As your profile photo and some buttons will appear at the top of your Stories, it’ll be great to take them into consideration when designing your Stories.
+
+Ideal Instagram image sizes
+
+Sharing square images: 1,080 x 1,080 pixels
+
+Sharing horizontal images: 1,080 x 566 pixels
+
+Sharing vertical images: 1,080 x 1,350 pixels
+
+Sharing Stories: 1,080 x 1,920 pixels
+
+Sharing images – 1,080 pixels wide
+
+The key for Instagram images is the width since all Instagram posts have the same width (i.e. the size of your phone screen). The ideal width is 1,080 pixels. If your image is less than 320 pixels wide, Instagram will enlarge it and it might look pixelated.
+
+As long as your image’s height is between 566 and 1,350 pixels with a width of 1,080 pixels (or aspect ratio between 1.91:1 and 4:5), Instagram will keep your image as it is.
+
+Otherwise, your image will be cropped to fit an aspect ratio that Instagram supports. For such instances, you can decide which part(s) of the image you want to be cropped away when posting to Instagram.
+
+Sharing Stories – 1,080 x 1,920 pixels
+
+Since Instagram Stories take up the full phone screen, the ideal size is 1,080 pixels wide by 1,920 pixels tall (aspect ratio of 9:16).
+
+When designing your Instagram Stories, remember to keep the 250 pixels of the top and bottom of the image free from text and logos as that’s where your profile photo and Instagram buttons will be.
+
+To make creating great Instagram Stories super easy for you, we built Stories Creator. Every Stories image you create with the tool is perfectly sized for Instagram Stories. We even show you the Instagram interface while you’re designing so that you can see where your profile photo and the Instagram buttons are. Give it a go!
+
+Ideal Twitter image sizes
+
+Sharing a single image: 1,200 x 675 pixels
+
+Sharing multiple images: 1,200 x 675 pixels
+
+Sharing links with an image: 800 x 418 pixels
+
+Sharing a single image (or GIF) – 1,200 x 675 pixels
+
+When sharing an image to Twitter, it’s better to follow the mobile specifications than the desktop specification. That’s because the mobile specifications will work on both mobile and desktop while the desktop specifications may result in cropping (like my image above – eek!)
+
+The ideal size is 1,200 pixels wide by 675 pixels tall (or an aspect ratio of 16:9). The minimum size is 600 pixels wide by 335 pixels tall but larger images will look better when your followers click to expand the image.
+
+Here’s a fun fact: Twitter now uses machine learning to crop your images to show the most interesting part of your images. So most of the times you shouldn’t have to worry about important details being cropped away. Great work, Twitter!
+
+While Twitter doesn’t state this, I have seen GIFs that appear square on the Twitter timeline (mobile and desktop). If you are a GIF fan, definitely give it a go!
+
+Sharing multiple images – 1,200 x 675 pixels
+
+The ideal size is similar to sharing a single image, 1,200 pixels wide by 675 pixels tall.
+
+Twitter, however, will crop the images slightly depending on how many images there are in your tweet and differently on mobile and on desktop. Thankfully, with Twitter’s new machine learning capability, it should still show the best part of your images.
+
+For example, here’s how the cropped images will look like on mobile:
+
+Sharing links with an image – 800 x 418 pixels
+
+The ideal size for Twitter’s link preview (also known as website image card) is 800 pixels wide by 418 pixels tall (1.91:1).
+
+The card shows a headline, description (on desktop), link, and photo when you share a URL from a site that contains the appropriate Twitter Cards code. All this information is pulled via HTML tags, often the same ones that are being used by Facebook to display links. (You can also use the Yoast SEO WordPress plugin for this.)
+
+If you’re curious how your images might look with Twitter Cards, you can enter your link into Twitter’s free card validator to get a quick preview.
+
+Ideal LinkedIn image sizes
+
+Sharing images to Company Page or personal profile: 1,104 x 736 pixels
+
+Sharing links with an image to Company Page or personal profile: 1,200 x 628 pixels
+
+Sharing images – 1,104 x 736 pixels
+
+According to a moderator of LinkedIn’s help forum, the ideal image size is 552 pixels wide by 368 pixels tall (or an aspect ratio of 3:2). Image of other aspect ratios will be cropped (on the sides or the bottom) to fit. I suggest doubling the dimensions so that your images will look great on retina screens — 1,104 pixels wide by 736 pixels tall.
+
+When sharing an image to LinkedIn from Buffer, the LinkedIn team told us that the ideal image size is 1200 pixels wide by 627 tall. That’s almost similar to the ideal image size for Facebook, which helps keep things simple!
+
+Sharing links with an image – 1200 x 628 pixels
+
+When you share links and articles to LinkedIn, the image preview will be scaled and cropped to fit a box of 552 pixels wide by 289 pixels tall (an aspect ratio of 1.91:1).
+
+LinkedIn recommends using a 1.91:1 aspect ratio. This is the same aspect ratio as the image in Facebook’s link preview! Hence, 1,200 pixels wide by 628 pixels tall will work great for sharing links with an image to LinkedIn, too.
+
+Oh, and these ideal sizes also apply to LinkedIn Showcase Pages.
+
+Ideal Pinterest image size – 800 x 1,200 pixels
+
+According to Pinterest, the best aspect ratio for Pinterest images is 2:3, with a minimum width of 600 pixels. I would recommend going with 800 pixels wide by 1,200 pixels tall to ensure that your image will look great on retina screens, too.
+
+Keeping to the 2:3 aspect ratio ensures that all details can be seen by your audience on their feed — just like how the Product Hunt logo and URL can be seen in the example above.
+
+If you want to create images that are longer than the 2:3 aspect ratio (e.g. 800 pixels wide by 2,000 pixels), note that the images will be cropped from the bottom. There seems to be a little leeway, though. On the feed, Pinterest displays images at a fixed width of 236 pixels and a maximum of 500 pixels (which scales up to 800 pixels wide by 1,694 pixels tall).
+
+Ideal Google+ image sizes – 1,200 x 628 pixels
+
+Editor’s note: Quick heads up! Google announced that they will be shutting down Google+ for consumers by April 2019. Here are some ideas on where you could share your content instead.
+
+Google+ doesn’t seem to crop images unless the images are really long vertically or horizontally. This is a great news because many common image sizes will work great on Google+.
+
+To keep things simple, I would recommend going with 1,200 pixels wide by 628 pixels tall (the ideal image size for sharing links to Facebook) when sharing images or links.
+
+Ideal Snapchat image size – 1,080 x 1,920 pixels
+
+Similar to Instagram Stories, snaps take up the full phone screen. 1,080 pixels wide by 1,920 pixels tall should work well for most phone displays.
+
+Again, you would want to account for the profile photo and buttons that will appear at the top and bottom of your snaps.
+
+Over to you
+
+I hope these image size overviews might be useful for you. We continue to learn lots about what’s best for all the different social networks, and I’ll be happy to continue updating this post with all our latest findings.
+
+Is there anything we can add to this resource to make it more useful for you? What has your experience been with sharing different image sizes on social media?
+
+I’d love to hear from you in the comments!
+
+—
+
+Image credit: The respective social media accounts, Twitter
+
+This post was originally written by Kevan Lee and rewritten with updated information by Alfred Lua.
+
+Originally written Sep 17, 2018. Last updated Jan 14, 2019

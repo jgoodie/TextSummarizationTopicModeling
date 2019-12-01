@@ -1,0 +1,281 @@
+GETTING THE BASICS RIGHT – FROM WHERE AND HOW TO BEGIN
+
+The base development phase has to be strong. This phase includes studying the basic books and developing the right techniques for things such as books reading, newspaper / magazine reading, using the internet, reports reading etc. UPSC questions will not be from this level, but if we don’t get this right, we won’t get the subsequent phases right. The idea is – our base should be so strong that when we study the higher things, we should be able to understand them straightaway. If our base is not strong, then we would have to keep revisiting it and will waste a lot of time. A good base means we should not feel the need of ever revisiting the basic books again.
+
+Basic Books
+
+In this phase we should cover all the basic books. These include:
+
+– Bipin Chandra for Indian freedom.
+
+– DD Basu for Indian constitution.
+
+– Class 11th and 12th old ncert textbooks: 3 in Geography (1 physical, 1 India, 1 economic), 3 in History (Ancient and medieval for the culture, philosophy part only, and the modern one for modern history)
+
+– Class 9th and 10th Science old ncerts (specially the biology part)
+
+We must prepare notes in our own language when we read these books and not merely underline for reasons mentioned later.
+
+Once we do this strongly, we will also realize we won’t need to prepare much for prelims as well!
+
+Notes Making
+
+Underlining vs Note Making
+
+Some people prefer underlining to note making. However, note making is preferable for at least 3 strong reasons:
+
+1. In UPSC Mains exams, its the stuff we have internalized which helps. We may have studied something in some context but in exam we may apply it in some other context. This kind of ‘cross referencing’ is very helpful and can make our answers very powerful. While making notes, we convert the language of the book into our own language and this process helps a lot in internalizing stuff.
+
+2. It saves time! This may sound contrary to common sense because underlining is definitely faster than painstakingly writing stuff in our own language. True, preparing notes takes lot longer than underlining books. But because they are in our own language, revising them takes lot lesser time than revising underlined stuff. In fact, with well prepared notes, it may be possible to revise your entire syllabus some 5-10 times and each successive revision will be faster!
+
+3. Notes are customizable. We can frame our own questions which we think may be asked in UPSC and prepare our notes accordingly. But we can’t do the same for underlined stuff.
+
+Notes on Paper vs Notes on Computer
+
+Try to make notes on computer if your typing speed is even half decent.
+
+– Making notes on computer has one very very big advantage over making notes on paper. It is editable and can be formatted easily. We can delete, format, append, insert, do anything with notes on computer and yet make it one clean nice story. For instance, many stories in current affairs develop over weeks and months. eg. the question on Maldives. No newspaper story will have a complete picture of it. But the question will only ask the complete story. So in our notes, we will have to edit bit by bit over time so that by the exam time we have the entire story in one place. The choice is yours – read n number of newspaper cuttings or physical paper notes, each containing partial information or read one coherent, complete story in one place only on computer. This will help us in quick revisions as well.
+
+– Online note making will also help us in revising our entire syllabus 5-10 times, so that all the stuff is so well placed in our mind that when we are solving 25 questions in 3 hours in the exam, we don’t take a long time to recollect and arrange stuff.
+
+– We should also get into the habit of making notes for anything and everything we read. This may include the basic books, the advanced books, newspapers, magazines, reports etc.
+
+– These notes must be organized issue-wise (eg. say Coal energy) irrespective of the sources we may read from. Thus whether we read from a book, newspaper, internet or wherever, all our notes on coal energy should be in one place only. To give an example of what I am talking, uploading here my note on ‘Energy’. Click here to see the note on energy. This will provide a picture of how to organize the notes (forgive me for some instances of lack of formatting in the note as they were added when I had grown lazy).
+
+Newspaper and Magazine Reading
+
+News vs Issues
+
+People in the beginning tend to focus on news and make notes accordingly. UPSC never asks news… it asks issues. For example, MDR-TB is an issue, we need to focus on that and not any individual news item. While reading any news on MDR-TB, we need to connect it to the key points of the issue. An issue specific reading thus tries to:
+
+1. identify key points with the issue in hand. For eg. in MDR-TB, the key challenges are the challenges it poses to the public health, why is it different from normal B, why is it more difficult to handle, what are the institutional factors which are leading to its spread, what needs to be done to tackle it, what steps is the government taking.
+
+2. Then when we read any news, we need to connect it to the key points so identified and not bother about facts and figures. For eg. a news item on MDR-TB may talk about some places, some drugs, some persons… we need to only worry about our key points and skip all the rest.
+
+Other aspects of newspaper/magazine reading
+
+1. Politics, sports, masala news etc. can be skipped straightaway.
+
+2. Keep an eye on any committee, any law, any rules, any policy, any supreme court orders etc. These are our bread and butter in upsc preparation.
+
+3. Hindu has become very very important since last 2 years. Read one more newspaper at least. Since Hindu is left leaning, so may suggest a pro-reform newspaper say Indian Express.
+
+4. UPSC is a left leaning exam. So one may read EPW magazine, but beware of the excessively left leaning rattling. Similarly yojana is a helpful magazine as well.
+
+5. We should never go in too many details or detailed news/articles can be straightaway skipped. GS is a generalist exam and reading has to be kept generalist too. For eg. no need to spend hours in reading and understanding about what Higgs Boson is. Even if we get a common man’s understanding on Higgs Boson, its good enough. No need to do a PhD on an issue – no use in writing things the examiner doesn’t know about.
+
+Our goal should be to finish one newspaper in max half an hour.
+
+Using Internet And RSS Reader
+
+Using the internet is of vital importance for proper UPSC preparation. The reason is simple:
+
+– Very often the newspaper/magazine/book/report we are reading will only contain partial information on the issue (say just the committee or bill name and only 1-2 points). But for our exam we need full information. Only place today to find complete information is internet.
+
+– Even reading 2 newspapers will never be sufficient. We should scan everything so that there are no ‘surprises’ in the exam. This can be done only on internet.
+
+How to use the internet
+
+1. As mentioned earlier, the moment we find something useful and yet incomplete in the newspapers/books, we should look up for it on internet.
+
+2. Since newspapers and magazines can’t cover everything, we should use a RSS reader (say feedly on Google Chrome) and subscribe to the editorials / sections of all major newspapers. It is free and easy. Any new item will show up with title and one line on your feedly. We can decide to either read it or skip it. We will find that we would normally skip ~95% of the items. But remaining 5% are needed.
+
+3. For certain topics like WTO & India, one may create Google alerts. This way one will get an email everytime something is published on the net containing keywords such as ‘WTO’ and ‘India’. Other meaningful alerts may be created.
+
+Report Reading
+
+During our preparation we will need to read multiple committee reports.
+
+– Sometimes newspapers talk about certain reports and publish a few of their recommendations. There is always a temptation to just make our notes based on that newspaper article. But this is not the right approach – because the newspaper article has not been written for the upsc exam and the reporter may not have covered all points relevant to us in our preparation for the exam. So the correct approach is to always look up for the original report on the internet and read it.
+
+How to read bulky reports
+
+But many reports are bulky. If we read them in detail, it would take an inordinate amount of time.
+
+– A common temptation is to read merely the recommendations part. But again this is faulty because the recommendations don’t contain the context, discussion which is as important for our exam purpose as the recommendation itself. We need the context and discussion because only rarely does UPSC ask ‘enumerate the recommendations’… Mostly it asks ‘discuss the recommendations’.
+
+– So we must read the entire report. But to save on time, we need not read each part in same detail and concentration. We should put in only that much effort to read the bulky text of the report so as to get an overall gist / idea of what is being talked about in that part. This will quicken up our reading substantially.
+
+– We can then highlight the relevant ‘important’ parts of the report text in our first reading. (If Adobe doesn’t allow you to highlight a pdf, download Nitroreader) Then in the 2nd reading, we can read only the highlighted parts and add it to our notes in our own words. The second reading and note making part would be substantially faster.
+
+– We must also search on the internet for any discussions on the report (because UPSC asks ‘discuss’ kind of questions).
+
+BEYOND THE BASICS
+
+We reach this stage when we have read all our basic books, made notes from them and have perfected our newspaper reading and internet using skills. Now we address our syllabus directly.
+
+Coaching Material
+
+There are handwritten classnotes of various coaching institutes available in the photocopy shops of rajinder nagar and mukherjee nagar. Notes from vajiram, insight, sriram (printed material) are good for various parts of GS. We should read them and in fact for Vajiram and Sriram, I found them to be better than the actual classes.
+
+ARC and Puncchi Commission Reports
+
+For many topics in 2nd and 3rd paper, 2nd Administrative Reforms Commissions reports are very good (http://arc.gov.in) along with the Puncchi Commission reports (http://interstatecouncil.nic.in/ccsr_report.html). Each volume should be read and notes prepared from them as mentioned earlier. In 2013 mains, at least 5-6 questions were asked directly from ARC and Puncchi Commission reports.
+
+Bills, Rules, Drafts and Government Actions
+
+– Every bill, policy, committee, rules, drafts, governmental action etc. has to be tracked.
+
+– PRS (http://prsindia.org) is a good source for bills.
+
+– Others have to be tracked on internet. PIB website (http://pib.nic.in) is a very good source for all governmental actions and may be subscribed to in the RSS reader.
+
+Specific Readings For Various Parts of Syllabus
+
+PAPER-II – General Studies- I
+
+Indian Heritage and Culture, History and Geography of the World and Society.
+
+Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times.
+
+I had history optional, so ancient and medieval culture were easy. Modern was very difficult and I found material by Insight, Nitin Singhania and 2 pdfs titled ‘Compilation of Indian culture’ and’Compendium on Indian Culture’ very useful. Click here and here to download the pdfs. I tried to memorize all folk songs/dances/drama etc. state-wise i.e. state first and then the dance.
+
+Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues
+
+The Freedom Struggle – its various stages and important contributors /contributions from different parts of the country.
+
+Shekhar Bandopadhyay’s “From Plassey to Partition” is by far the best book. Also read Bipin Chandra’s book to get a different perspective. Read both because writing a balanced perspective is very imp.
+
+Post-independence consolidation and reorganization within the country.
+
+There is a book by Bipin Chandra “India since Independence”. Very thick book, but we need to read only 3-4 chapters.
+
+History of the world will include events from 18th century such as industrial revolution, world wars, redrawal of national boundaries, colonization, decolonization, political philosophies like communism, capitalism, socialism etc.- their forms and effect on the society.
+
+Read Insight world history optional class notes first. for colonization, there was one chapter in old class 9 or 10 history ncert book.
+
+Salient features of Indian Society, Diversity of India.
+
+Role of women and women’s organization, population and associated issues, poverty and developmental issues, urbanization, their problems and their remedies.
+
+Effects of globalization on Indian society
+
+Social empowerment, communalism, regionalism & secularism.
+
+All above is very general. answer writing style matters. everybody knows everything.
+
+Salient features of world’s physical geography.
+
+Distribution of key natural resources across the world (including South Asia and the Indian subcontinent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India)
+
+Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location- changes in critical geographical features (including waterbodies and ice-caps) and in flora and fauna and the effects of such changes.
+
+NCERT class 11 n 12 books + insight academy + vajiram notes + follow main themes like recent IPCC report, IPSO report, IMD website for cyclone mechanism. In 2013 mains, the cyclone naming question was directly from IMD website. Click here to download cyclone pdf of imd.
+
+PAPER-III
+
+General Studies- II: Governance, Constitution, Polity, Social Justice and International relations.
+
+Indian Constitution- historical underpinnings, evolution, features, amendments, significant provisions and basic structure.
+
+Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein.
+
+Separation of powers between various organs dispute redressal mechanisms and institutions.
+
+Comparison of the Indian constitutional scheme with that of other countries
+
+Parliament and State Legislatures – structure, functioning, conduct of business, powers & privileges and issues arising out of these.
+
+Structure, organization and functioning of the Executive and the Judiciary Ministries and Departments of the Government; pressure groups and formal/informal associations and their role in the Polity.
+
+Salient features of the Representation of People’s Act.
+
+Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies.
+
+Statutory, regulatory and various quasi-judicial bodies
+
+Government policies and interventions for development in various sectors and issues arising out of their design and implementation.
+
+Development processes and the development industry- the role of NGOs, SHGs, various groups and associations, donors, charities, institutional and other stakeholders.
+
+For all the polity, read DD Basu or Laximakanth thoroughly. Read 2nd ARC relevant reports and Puncchi Commission Reports. These reports directly cover most of the topics.
+
+Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections.
+
+Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources.
+
+Issues relating to poverty and hunger.
+
+Vajiram came out with an online pdf on various schemes (Click here to download), its printed copy would be available on photocopy shops in Rajinder Nagar. Handwritten classnotes by the same institutions were also helpful. Newspapers, pib etc. will come in handy here. CAG reports have very good analysis on various schemes as well which can be found on internet.
+
+Important aspects of governance, transparency and accountability, e-governance- applications, models, successes, limitations, and potential; citizens charters, transparency & accountability and institutional and other measures.
+
+Role of civil services in a democracy.
+
+These topics are well covered in 2nd ARC reports.
+
+India and its neighborhood- relations.
+
+Bilateral, regional and global groupings and agreements involving India and/or affecting India’s interests
+
+Effect of policies and politics of developed and developing countries on India’s interests, Indian diaspora.
+
+Important International institutions, agencies and fora- their structure, mandate.
+
+IR has to be newspapers n internet based.
+
+PAPER-IV
+
+General Studies-III: Technology, Economic Development, Bio diversity, Environment, Security and Disaster Management. Economy section has to come from budget, economic survey, 12th 5 yr plan, newsppr n intnt. Coaching hand written material may also help in some topics.
+
+Indian Economy and issues relating to planning, mobilization of resources, growth, development and employment.
+
+Inclusive growth and issues arising from it.
+
+Government Budgeting.
+
+govt budgeting has to come from 2nd ARC report.
+
+Major crops cropping patterns in various parts of the country, different types of irrigation and irrigation systems storage, transport and marketing of agricultural produce and issues and related constraints; e-technology in the aid of farmers
+
+agriculture – there was “State of Indian Agriculture” report tabled in parliament in March 2012.
+
+Issues related to direct and indirect farm subsidies and minimum support prices; Public Distribution System- objectives, functioning, limitations, revamping; issues of buffer stocks and food security; Technology missions; economics of animal-rearing.
+
+Food processing and related industries in India- scope and significance, location, upstream and downstream requirements, supply chain management.
+
+Land reforms in India.
+
+Effects of liberalization on the economy, changes in industrial policy and their effects on industrial growth.
+
+Infrastructure: Energy, Ports, Roads, Airports, Railways etc.
+
+Investment models.
+
+All the above issues are well covered in newspapers, internet and editorials etc. Just keep an eye for anything relevant. + I had economics optional, so never really prepared above specifically for GS.
+
+Science and Technology- developments and their applications and effects in everyday life
+
+Achievements of Indians in science & technology; indigenization of technology and developing new technology.
+
+Awareness in the fields of IT, Space, Computers, robotics, nano-technology, bio-technology and issues relating to intellectual property rights.
+
+Conservation, environmental pollution and degradation, environmental impact assessment
+
+S&T: Mostly adhoc preparation. coaching classes material is relied upon in the final month to boost confidence but it doesn’t really help in the exam.
+
+Disaster and disaster management.
+
+Disaster: 2nd ARC report and CAG report on disaster preparedness
+
+Linkages between development and spread of extremism.
+
+2nd ARC report: 5th schedule, PESA, FRA, 6th schedule topics are imp. here
+
+Role of external state and non-state actors in creating challenges to internal security.
+
+Challenges to internal security through communication networks, role of media and social networking sites in internal security challenges, basics of cyber security; money-laundering and its prevention
+
+Security challenges and their management in border areas; linkages of organized crime with terrorism
+
+Various Security forces and agencies and their mandate
+
+Security: coaching material and newspapers etc.
+
+PAPER-V
+
+General Studies- IV: Ethics, Integrity, and Aptitude
+
+Basic material has to be 2nd ARC report #4 and also Vajiram and Insight handwritten notes. For moral thinkers, attitude, emotional intelligence topics, refer to Sriram printed notes.
+
+Advertisements

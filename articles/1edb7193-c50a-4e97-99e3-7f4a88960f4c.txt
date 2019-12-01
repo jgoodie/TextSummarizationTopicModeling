@@ -1,0 +1,591 @@
+Almost two years ago we released the first edition of our “Complete Guide to Facebook Advertising Targeting Options.”
+
+With over 25,000 page views, this article was a big success… and we’re proud to have helped that many people better understand Facebook targeting.
+
+But since then, a lot has changed…
+
+…as it usually does in digital marketing, especially when it comes to Facebook advertising :).
+
+It was time to update this article with the most relevant Facebook targeting tactics and options…
+
+I’m about to explain not only our research process for selecting the most effective targeting options to reach your target market (people that will actually BUY your product(s)), I’ll also list ALL of the targeting options available on the Facebook platform so that you don’t have to waste time digging around…
+
+But first…
+
+Why is Facebook’s targeting so effective?
+
+Facebook has well over 1.6 billion users. Meaning, you can reach almost any group of people that you want.
+
+I bet you can only list a handful of friends that DON’T have a Facebook profile.
+
+If your target market is a human, you can reach them on Facebook.
+
+For example, there’s a common misconception that Facebook won’t work for companies that are B2B… WRONG!
+
+It’s interesting because DigitalMarketer actually markets to other businesses… and Facebook is our biggest traffic source.
+
+A CEO of a company probably has a LinkedIn profile, yes, but they also probably have a Facebook profile. They just have different uses for each platform. It doesn’t mean that you can’t put an ad in front of them on one or the other.
+
+Also, Facebook knows A LOT about us… more than any other traffic platform out there.
+
+Facebook has more interest based data than anyone else in the world – and it’s about things that actually matter to us as marketers.
+
+Thanks to that good ole “Like” button, Facebook knows what you’re interested in: restaurants you like, the TV shows you watch, the music you listen to, the causes you believe in, the people who inspire you. On and on…
+
+The Facebook platform, like no other, knows what moves you. They also know most of what you do when you LEAVE their site…
+
+Thanks to the Facebook Pixel, which is now installed on most businesses’ website that advertise on Facebook, Facebook can actually track most of your online activity… what you purchase, what you read, etc.
+
+Don’t believe me? Use this Chrome plugin, Facebook Pixel Helper, and visit a few of your favorite websites. I bet most of them have this pixel installed.
+
+This data is far more valuable than basic demographics information like age or gender.
+
+In short, Facebook is able to collect a ton of data on its users and it’s all accessible to marketers. You just have to know how to use it.
+
+Luckily, Facebook makes targeting fairly easy – especially if you follow the advice in this post.
+
+Facebook’s Targeting Options Explained
+
+First, I want to explain the different targeting options that are available and list out the possibilities within each category… it’s important for you to first understand ALL of the targeting possibilities, and then we will discuss which ones are best for your business.
+
+Every time you create a Facebook ad, you’ll see these categories:
+
+Here’s what lies beneath each category:
+
+Custom Audiences
+
+Custom Audiences are created by uploading your customer database of…
+
+email addresses
+
+phone numbers
+
+Facebook user IDs
+
+app user IDs
+
+…Facebook will match this data to as many user profiles as possible.
+
+(RELATED: Perpetual Traffic Episode 22: Create These 4 Facebook Custom Audiences First)
+
+Lookalike Audiences are also found within the same box.
+
+Lookalike audiences are a way to reach new people who are likely to be interested in your business because…
+
+Their profiles are similar to custom audiences you have uploaded.
+
+They’re people who have visited your website.
+
+They’re people who have hit one of your conversion pixels.
+
+You’re telling Facebook that you want an audience created of people who are most like your email list, website visitors, people who have hit one of your conversion pixels, etc.
+
+Facebook will create an audience based off of data points on a Facebook profile that would denote similarity.
+
+This is what creating a lookalike audience looks like in Ads Manager:
+
+In this example, we’ve created a Lookalike Audience of people who have visited DigitalMarketer.com, located in the U.S., with an audience size of 1% of the population. This gives us a group of people just under two million who are most like the people who have visited our website.
+
+Locations
+
+This option is HUGE if you have a local business.
+
+Enter…
+
+one or more countries
+
+regions
+
+states
+
+cities
+
+postal codes
+
+addresses
+
+Designated Market Areas®…
+
+…to show or exclude your ad to people in those locations. Just know, location targeting is not available in all countries.
+
+As a general rule, run ads in countries, states/regions, cities, or postal codes where you can actually sell your product.
+
+When selecting locations at DigitalMarketer, we usually concentrate on the top four or five countries where people live that actually buy our products.
+
+(RELATED: Perpetual Traffic Episode 28: 7 Ways to Grow Local Businesses Using Paid Traffic)
+
+Age
+
+Select the minimum and maximum age of the people who will find your ad relevant.
+
+In terms of Age (and Gender), a big misconception a lot of people have is that they MUST define their audience by these parameters.
+
+Most of the time, if you do this, you’ll actually hurt your campaigns by making the assumption of the age/gender of your audience.
+
+For example, our sister company Survival Life thought their target market was older, white males, and that’s who they were targeting on Facebook. But one time, on accident, they forgot to select males as the target (so they were targeting both men and women).
+
+Do you know what they found?
+
+Their best converting ads in that campaign were from women — the more you know…
+
+That’s why, whenever we set up ad campaigns in new markets, we leave the Age and Gender options totally open and…
+
+….let the data and the results tell us the age and the gender of the people who are actually going to convert.
+
+Obviously, there are circumstances where age and gender really matter, like if you’re advertising to college kids or you’re advertising retirement services. So all of this is situational, and you have to think about how age and gender apply to your market and the products you sell.
+
+Gender
+
+What is their gender?
+
+All/men/women — see above and learn from our mistakes!
+
+Languages
+
+What language do they speak?
+
+Detailed Targeting
+
+This is where the magic happens.
+
+Let’s take a thorough look at what Detailed Targeting is, and how we recommend approaching this powerful feature.
+
+Within the “detailed targeting” box lies four different types of targeting…
+
+Demographics
+
+Interests
+
+Behaviors
+
+More Categories
+
+We have LOTS more on our approach to use Detailed Targeting that we’ll get to in just a minute.
+
+This is the most powerful option when you’re entering a new market or going after cold traffic – people who have never heard of you before.
+
+Detailed Targeting lets you further specify your audience beyond Location, Age, Gender, and Language.
+
+Demographics
+
+Reach people based on education, employment, household and lifestyle details. Some data is available for the US only.
+
+What’s their education level? (Associate degree, college grad, Master’s degree, Doctorate degree, high school grad, in college, in grad school, in high school, professional degree, some college, some grad school, some high school, unspecified)
+
+What was/is their field of study? (Marketing, culinary, finance, etc.)
+
+What school did they attend? (High schools, colleges, etc.)
+
+What years were they in undergrad? (Select a range of years people graduated)
+
+Ethnic Affinity (African American (US), Asian American (US), Hispanic (US – All), Hispanic (US – Bilingual), Hispanic (US – English dominant), Hispanic (US – Spanish dominant))
+
+What is their income range? ($30,000 – $40,000, $40,000 – $50,000, $50,000 – $75,000, $75,000 – $100,000, $100,000 – $125,000, $125,000 – $150,000, $150,000 – $250,000, $250,000 – $350,000, $350,000 – $500,000, Over $500,000)
+
+What is their net worth? ($1 – $100,000, $1,000,000 – $2,000,000, $100,000 – $200,000, $200,000 – $500,000, $500,000 – $750,000, $750,000 – $1,000,000)
+
+What generation do they belong to? (Baby Boomers (US), Generation X, Millennials)
+
+Are they: Renters, Homeowners, or First time homebuyers?
+
+What type of home do they reside in? (Apartment, condo, multi-family home, single)
+
+What is their home worth? (10 different segments from fewer than $50,000 to over $2,000,000)
+
+How many acres is their property? (11 different segments from . 26 – .59 acres to > 40 acres)
+
+26 – .59 acres to > 40 acres) What’s the square footage of their home? (13 different segments from fewer than 750 sq. ft. to 6,000 – 6,999 sq. ft.)
+
+When was their home built? (11 different segments from 1900-1909 to >2011)
+
+What is their household composition? (Family-based households, grandparents, housemate-based households, new parents, veterans in home, working women, young & hip, young adults in home)
+
+Life events? (Anniversary within 30 days, away from family, away from hometown, long distance relationship, new job, new relationship, newly engaged (3 months), newly engaged (6 months), newly engaged (1 year), newlywed (3 months), newlywed (6 months), newlywed (1 year), recently moved, upcoming birthday)
+
+Who are their friends? (friends with the newly engaged, friends with the newlywed, friends with someone who has an anniversary within 30 days, friends with someone who recently moved, friends with someone who has an upcoming birthday)
+
+Are they a parent? ((0-12 months) new parents, (01-02 Years) parents with toddlers, (03-05 Years) parents with preschoolers, (06-08 Years) parents with early school age children, (08-12 Years) parents with pre-teens, (13-18 Years) parents with teenagers, (18-26 Years) parents with adult children, expectant parents, parents (All))
+
+Are they a mom? What type? (Big-city moms, corporate moms, fit moms, green moms, moms of grade school kids, moms of high school kids, moms of preschool kids, new moms, soccer moms, stay-at-home moms, trendy moms)
+
+What’s their view on US politics? (Are they likely to engage in liberal or conservative politics? Are they likely to donate to liberal or conservative causes? Do they identify as: conservative, liberal, moderate, very conservative, or very liberal?)
+
+Who are they interested in? (Unspecified, men, women, men and women)
+
+What’s their relationship status? (Civil union, complicated, divorced, domestic partnership, engaged, in a relationship, married, open relationship, separated, single, unspecified, widowed)
+
+Who is their employer? (Apple, Target, Dell, etc.)
+
+What industry do they work in? (28 categories from administrative to legal to US veterans)
+
+What is their job title? (Doctor, store manager, marketing coordinator, etc.)
+
+What type of office do they work in? (Home office, small office, small business)
+
+Interests
+
+Reach specific audiences by their “interests.”
+
+This includes:
+
+posts they share on their timelines
+
+apps they use
+
+pages they Like
+
+Not surprising, the Interests section includes the most targeting options — start typing ANYTHING and you’re likely to see results.
+
+There are also many categories with many, many subcategories. We’ll show you the main categories, but this is a section that will require exploration on your part.
+
+Business and Industry: What business or industry are they interested in? From advertising to nursing to small business.
+
+What business or industry are they interested in? From advertising to nursing to small business. Entertainment: What do they do for entertainment? From games to movies to TV.
+
+What do they do for entertainment? From games to movies to TV. Family and Relationships: What are their interests in regards to family and relationships? From dating to friendship to weddings.
+
+What are their interests in regards to family and relationships? From dating to friendship to weddings. Fitness and Wellness: Are they interested in bodybuilding, meditation, Zumba (etc.)?
+
+Are they interested in bodybuilding, meditation, Zumba (etc.)? Food and Drink: What food and drink do they like? From adult beverages to restaurants.
+
+What food and drink do they like? From adult beverages to restaurants. Hobbies and Activities: What hobbies and activities pique their interest? From acting to pets to vehicles.
+
+What hobbies and activities pique their interest? From acting to pets to vehicles. Shopping and Fashion: Do they like men’s clothing, tattoos, cosmetics, shopping boutiques?
+
+Do they like men’s clothing, tattoos, cosmetics, shopping boutiques? Sports and Outdoors: What outdoor recreation do they like to do? From boating to hunting to surfing. What sports do they like? From American football to golf to volleyball.
+
+What outdoor recreation do they like to do? From boating to hunting to surfing. What sports do they like? From American football to golf to volleyball. Technology: What technology do they like? From computer monitors to free software to audio equipment to televisions.
+
+Behaviors (often from third-party data)
+
+Reach people based on purchase behaviors or intents, device usage, and more — some behavior data is available for US audiences only.
+
+Like Interests, there are many, many Behaviors and even more subcategories to target. We’ll show you the main categories, but, like Interests, this is a section that will require exploration on your part.
+
+Automotive: What kind of vehicle do they drive? Is it used or new? What vehicle are they shopping for? Etc.
+
+What kind of vehicle do they drive? Is it used or new? What vehicle are they shopping for? Etc. B2B: People who are owners or employees and what’s their company size, what’s the industry and what’s their seniority?
+
+People who are owners or employees and what’s their company size, what’s the industry and what’s their seniority? Charitable Donations: Do they donate to charitable organizations, and if so, which ones? From animal welfare to children’s causes to world relief.
+
+Do they donate to charitable organizations, and if so, which ones? From animal welfare to children’s causes to world relief. Consumer Classification: People who are predicted to prefer mid to high-value goods.
+
+People who are predicted to prefer mid to high-value goods. Digital Activities: Are they console gamers? What Internet browser do they use? Are they early or late technology adopters?
+
+Are they console gamers? What Internet browser do they use? Are they early or late technology adopters? Expats: People whose current country or residence is different from their birth country. For example, People from Argentina living abroad.
+
+People whose current country or residence is different from their birth country. For example, People from Argentina living abroad. Financial: Indications of what kind of bank they belong to (such as a credit union), if they’re likely to invest, if they’re likely to be high spenders, have multiple lines of credit, etc.
+
+Indications of what kind of bank they belong to (such as a credit union), if they’re likely to invest, if they’re likely to be high spenders, have multiple lines of credit, etc. Job Role: People’s whose activities strongly suggest they have a particular job role.
+
+People’s whose activities strongly suggest they have a particular job role. Media: Households with people who are likely to listen to Internet or satellite radio. Households who are likely to watch a particular genre of TV show – from action to comedy to health shows to travel shows.
+
+Households with people who are likely to listen to Internet or satellite radio. Households who are likely to watch a particular genre of TV show – from action to comedy to health shows to travel shows. Mobile Device User: What brand of mobile device do they use? Do they use a 3G or a 4G network connection? Are they new smartphone or tablet owners? Etc.
+
+What brand of mobile device do they use? Do they use a 3G or a 4G network connection? Are they new smartphone or tablet owners? Etc. Purchase Behavior: When they shop, do they use a coupon? Do they buy from department stores or luxury stores? What kinds of products do they purchase the most: clothing, kids’ toys, athletic gear, etc.?
+
+When they shop, do they use a coupon? Do they buy from department stores or luxury stores? What kinds of products do they purchase the most: clothing, kids’ toys, athletic gear, etc.? Residential Profiles: How long have they lived in their home? Are they likely to move or have they recently borrowed money to buy a home?
+
+How long have they lived in their home? Are they likely to move or have they recently borrowed money to buy a home? Seasonal and Events: People who are engaging in seasonal content, from baseball to rugby.
+
+People who are engaging in seasonal content, from baseball to rugby. Travel: People’s actives that indicate they are likely to be frequent travelers, travel for business, take family vacations, have recently returned from a trip, etc.
+
+More Categories
+
+Find any Facebook or Partner Categories you’ve requested access to here. Some data is available for US audiences only.
+
+Now that you have an understanding of the Facebook Targeting Features, you should be ready start your own campaign!
+
+But first, let me give you some advice so you don’t cripple your campaign and waste your time and money.
+
+(NOTE: Want to get clear on WHO you are targeting on Facebook? Download our Customer Avatar Worksheet now.)
+
+How DigitalMarketer Does Targeting Research
+
+Before you ever hop into ads manager… you MUST do your research!
+
+Targeting is VITALLY important to the success of your advertising campaign.
+
+You can build the best advertising campaign in the world, but if you put that campaign in front of the wrong audience – it will fail.
+
+That’s why our team devotes so much time to researching the best targeting options for each and every traffic campaign.
+
+(RELATED: Perpetual Traffic Episode 33: The Ad Grid: How to Build Campaigns that Convert and Scale)
+
+Before we hop into our research process, it’s important for you to first understand HOW we think about targeting at DigitalMarketer…
+
+The key to successful targeting is SPECIFICITY.
+
+You must ensure that your targeting isn’t too BROAD, that you’re really narrowing in on the avid part of your market… the people who actually want to BUY.
+
+Let’s use the golf industry as an example.
+
+If I’m selling golf products, I may think to target “Tiger Woods,” “PGA” and “ESPN” because if people have these interests, they’ll probably buy golf equipment.
+
+But… that’s not specific enough.
+
+It’s too broad.
+
+In terms of specificity, think of it like this…
+
+(RELATED: Perpetual Traffic Episode 30: Ad Targeting: A B2B & B2C Case Study)
+
+The “But No One Else Would” Trick
+
+A [enter your market here] enthusiast will know who XYZ is, but no one else would.
+
+A [golf enthusiast ] would know who Bubba Watson is, but no one else would.
+
+Think of it like this: Although Tiger Woods is a golfer, he’s also an international celebrity.
+
+Woods is so much bigger than golf, and he attracts people who are non-golfers — who would also be non-buyers.
+
+Check out the second circle in the image above, Phil Mickelson.
+
+A casual golfer, someone who knows a little more about the industry, would know who Mickelson is. And not that he would be a terrible person to target, he’s more specific than Woods, but he’s not as specific as we can get.
+
+The central circle of our diagram has Bubba Watson.
+
+Now, Watson has become a little more famous since we created this graphic, but if you think about it…
+
+Who is someone that really follows golf would know?
+
+For instance, a mid-level golfer that’s won a few tournaments and has a following, but not someone who’s name has been plastered across the headlines and has become a cultural icon.
+
+This is how specific you need to think in your market to really get to the core of it — to get the people who will actually buy.
+
+This trick will apply across the board, from influencers to events to magazines to brands in your market…
+
+A [enter your market here] enthusiast will read XYZ magazine , but no one else would.
+
+, but no one else would. A [enter your market here] enthusiast will know who XYZ is, but no one else would.
+
+is, but no one else would. A [enter your market here] enthusiast will attend XYZ conference , but no one else would.
+
+Adopt this mindset because it will help with actually…
+
+Conducting the Research
+
+We do a ton of research for every ad campaign we create — and we use a systematic checklist to do it.
+
+We use the Facebook Ad Checklist when rolling out new offers, or to new markets and if we’re targeting people that we haven’t gone after before.
+
+It’s all about getting inside the mind of your target market…
+
+Who is this person?
+
+Where are they hanging out on Facebook?
+
+If you can “meet them where they are” then you’re ensuring that your message is being placed in front of the RIGHT crowd.
+
+Give the Facebook Ad Checklist a shot before your next campaign. You can swipe it here.
+
+I usually create an excel sheet (or go really old school with pen and paper) to create lists (plenty of them) of possible answers to the questions on this sheet.
+
+These will become possible interests (or other targeting types) to use for your campaign.
+
+The point of this step is to learn as much as possible about your target audience. We’re looking for specific interests that are relevant to this market.
+
+You don’t have to use fancy, expensive tools to do your targeting research – Google is a great resource.
+
+Let’s see it at work.
+
+“Fishing” for People to Target on Facebook
+
+The first question of the Checklist is:
+
+Who are the authority figures, thought leaders, or big brands in your niche?
+
+For obvious reasons, influencers are great Interests to use as long as you do your research.
+
+Let’s assume I have a product targeted for buyers in the fishing industry.
+
+So, who are the authority leaders?
+
+This part is easy — you can literally search for “Top/Best [Insert Search Term]” into Google and get lists and posts that have already been created by people in this market.
+
+This is a great strategy when answering the Facebook Ad Checklist questions.
+
+Going along those lines, something you could type into Google is “Top Fishermen.”
+
+The “20 Most Famous Bass Anglers of All Time” will probably give us exactly what we’re hoping for.
+
+Now you may be thinking: But you said not to target famous people.
+
+And you’re right — but you have to think about all of this conceptually.
+
+Bass anglers/famous fishermen aren’t necessarily people who have become celebrities like Tiger Woods or Phil Mickelson.
+
+These famous fishermen aren’t household names. They’re men who only fishing enthusiasts would know.
+
+Here’s what comes up in the “20 Most Famous Bass Anglers of All Time” post:
+
+Let’s go to Ads Manager and enter Ray Scott (the first name on our “20 Famous Bass Angler’s” list) into Detailed Targeting.
+
+Perfect. We’ll go ahead and select him.
+
+The prompts that come up in Detailed Targeting are pretty good at helping you find the right page, but if you ever have a question or are unsure if you have the right Ray Scott, for instance, then do some sleuthing on Facebook and make sure you have the right page.
+
+Back to our list.
+
+We continue to go down the Top Fishermen List we found in Google, and add as many famous fishermen into Detailed Targeting Interests until our ad set is specific enough and I get a potential reach that I’m looking for.
+
+How do I know when my ad is specific enough? What’s the range?
+
+We’ll get to that in just a second :).
+
+Now, not all of the names from my research may show up on Facebook – some of these famous fishermen may not have a presence on Facebook. Depending on the market, I’d expect about half of my research list to show up in the interests, and I’d be okay with that.
+
+The second question in our Targeting Planning is…
+
+What books/magazines/newspapers does your ideal customer read?
+
+That’s a great way to reach people. If they like something enough to spend time on it, then it’s probably a good thing to target.
+
+So a search query, “Top Fishing Magazines,” is a good search query to answer this question.
+
+And here’s a resource I select:
+
+Again, use your best judgment.
+
+I wouldn’t target Outdoor Life because that’s going to include a lot of people who are hunters, and it’s not specific enough to fishing. I also wouldn’t target Florida Sportsman, but this Bassmaster…that’s exactly what we’re looking for.
+
+The next question is…
+
+What events do they attend?
+
+This is a big one. If someone is interested in the market enough to attend an event, they’re probably a really good person to target, especially if your market is event heavy.
+
+“Top Fishing Tournaments” (“tournaments” is a more relevant term in the fishing world than “events”) is the search query I would use in Google.
+
+Next…
+
+What websites do they frequent?
+
+Again, your target market is showing intent and interest by actively searching and consuming information from these sites.
+
+Don’t forget, you don’t want the most popular sites in your industry that any average Joe would know about – you want to use the sites that only enthusiasts would know.
+
+I would search for “Top Fishing Websites” in this example.
+
+Then…
+
+Where do they live?
+
+This is an extremely important aspect, particularly for local businesses, to be mindful of. If you only sell regionally you don’t want to be targeting internationally.
+
+Next…
+
+What tools do they use?
+
+This one is really my favorite because it’s applicable across the board.
+
+Think of your customer avatar and what tools and products they use to support their interest. From fishing rod manufacturers to blogging platforms and software, what tools or products support the Interest you’re targeting?
+
+Finally…
+
+What is SPECIFICALLY UNIQUE about these people?
+
+This isn’t necessarily something you can do research on, but it’s a mindset. This goes back to our “But No One Else Would” concept.
+
+The best thing? You’re not just limited to these search queries!
+
+(NOTE: Want to get clear on WHO you are targeting on Facebook? Download our Customer Avatar Worksheet and bring your ideal customer to life so you can tailor your marketing to address their goals, challenges, and objections to the sale. Download it now.)
+
+More Targeting Research Ideas
+
+Use Audience Insights within Facebook Ad Manager
+
+With Audience Insights you could take a list of interests you’ve researched (events for example), and copy and paste that list into Insights and Facebook will generate a list of other interests that are most like the ones you entered. It’s another way to leverage Facebook’s data and to scale as you continue to update your campaign. We have a blog post on how this works and you can read it here.
+
+Forums
+
+If you can find forums within your market, you can see how your target market talks; what they’re talking about; what are their pain points are (the problem they’re seeking to solve). This will help you craft the look and the sound of your message and ad copy.
+
+Buzzsumo
+
+Buzzsumo is a great tool you can use to enter keywords and to see what pieces of content around the web are the most shared. It’s also another great way to see what your market is interested in. It could even serve as inspiration for headlines.
+
+Amazon
+
+Amazon is a great place to find popular tools and books in the market.
+
+Then, read the reviews.
+
+Again, you’ll see how people talk in the market, what they’re talking about, and what are their pain points are.
+
+So you guys see the thought and research process we use to decide what are good interests to target.
+
+(RELATED: 13 Ways To Use Amazon.com To Pick Products and Niches, Craft Winning Offers, Increase Conversions And More)
+
+Now… for the question you’ve all been wondering:
+
+How Do I Know How Big of an Audience to Target?
+
+If I have a good range and a good offer, these interests should convert.
+
+When starting a campaign, the Interest Audience Size should be 500,000 to 1,000,000 people per ad set; that’s the sweet spot that we’ve found.
+
+If you’re a little bit outside of that don’t sweat it.
+
+Having an ad set of about 300,000 or 1.4 million isn’t going to hurt you. What’s not going to work is 10 million people – it’s too broad.
+
+Now, if you’re targeting with Custom Audience Sizes, your audience size will be dependent on other factors because it is based off of website visitors or email addresses that you’ve uploaded.
+
+Size doesn’t matter as much with Custom Audiences, and again, you already know these people are interested – they’ve had a point of contact with you.
+
+If you’re a local marketer, don’t worry about hitting 500,000 people.
+
+That will probably be difficult. The location is going to decrease your targeting. Just worry about the interests, behaviors, and demographics that apply to your customers.
+
+As a local business, you have the advantage that most of your targeting is already done for you through your location – but that doesn’t mean you’re off the research hook.
+
+Bonus: Facebook Flex Targeting
+
+Towards the end of 2015, Facebook rolled out Flex Targeting.
+
+In Custom Audiences, Locations, and Detailed Targeting, Facebook added options to Exclude or Include, which lets you make your targeting even more specific.
+
+For instance, in the Detailed Targeting Box, you could target people who like Tiger Woods and Bubba Watson. It’s allowing to you tap into Woods’ market while still being hyper-focused.
+
+This was never an option before, other than through third party tools, and it’s a great addition to Facebook targeting.
+
+Where Do I Start?
+
+Phew! That was a lot to take in!
+
+If you’re new to Facebook, and you just want to get started, I’d advise boosting a post on your page…
+
+It will allow you to do a bit of basic targeting, and you can do it for as little as $1. It’s a great way to get your feet wet.
+
+For the Ad Manager veterans, I’d advise creating an ad set for each one of the Targeting questions that are applicable (from our Facebook Ad Checklist).
+
+Going back to our Fishing Example, I’d make an ad set for the famous fishermen that we found. And a set for the magazines, and then the events, and so on. Or combine a few to create the target sweet spot of 500,000 to 1 million.
+
+It will vary from market to market and interest to interest, and you’ll have to use your best judgment based on your research.
+
+It’s all about the research, and it’s not something you can shortcut.
+
+Dig into your customer avatar beyond how old they are, or where they live.
+
+You have to be in the mindset of what does the avatar do; what do they use to do it; where do they go; what do they read?
+
+Start by getting our Facebook Targeting Planning Sheet, fill it out, and create specific ad sets.
+
+Then test.
+
+You may find the people who follow the fishing tools don’t convert, but the people who follow the famous fishermen do. So then you can go out and find more fishermen for your next ad set to make it even better.
+
+By testing, you’ll have a better understanding of your customer avatar and how to scale to them more effectively.
+
+And that’s why this is all about: testing and research.
+
+Using interests to target will help you get in front of people who are naturally inclined to your market, and those are going to be your buyers.
+
+(NOTE: Want to get clear on WHO you are targeting on Facebook? Download our Customer Avatar Worksheet and bring your ideal customer to life so you can tailor your marketing to address their goals, challenges, and objections to the sale. Download it now.)
+
+Have a question?
+
+Ask the DM team and 9,036 other members in the DM Engage Facebook Group!
+
+Not a DM Lab Member? Learn more here.

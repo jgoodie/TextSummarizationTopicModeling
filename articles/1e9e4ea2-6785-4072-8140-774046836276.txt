@@ -1,0 +1,55 @@
+ReadWriteReflect offers a look back at major technology trends, products and companies of the past year.
+
+Thank the U.S. National Security Agency for bringing Big Data onto the national stage. The agency’s questionable use of data mining and analysis in the name of national security raised Main Street’s awareness of Big Data like never before.
+
+Making sense of a wellspring of unstructured and structured information: What do we like? What did we buy? What do we do? These questions have proven extremely valuable to companies large and small, as well as local and worldwide organizations.
+
+See also: Big Data Myths Give Way To Reality In 2014
+
+In a year that saw everyone from retailers like Target to healthcare facilities in Texas embrace these questions, one could say Big Data really came into its own in 2013.
+
+So let’s look back at some of the key trends that emerged in the Big Data ecosystem.
+
+Entering Mainstream Thinking
+
+When Jake Porway, a data scientist from the National Geographic Society, compared data to “a bucket of crude oil” last year, executives around the globe collectively nodded in agreement.
+
+This year, the aforementioned NSA’s probing into phone records and customer databases at technology companies like Apple and Google caused enough of a stir that other tech companies began revisiting their own privacy procedures.
+
+In most ways, however, Big Data is helping humanity. The World Health Organization’s Global Burden of Disease project searches vast data sets of 21 countries to keep track of diseases and avoid pandemics. Environmental organization Conservation International announced its plan this year to gather data from thousands of sensors and databases to help scientists take proactive steps against ecological threats.
+
+For good or ill, the concept of Big Data is strong enough that more companies are preparing to spend time and money to use Big Data analysis tools. Some 64 percent of organizations surveyed by researchers at Gartner invested in big data technology this year. Thousands of executives at major organizations like Bank of America, HSBC, AIG and even the Federal Communications Commission identify themselves as Chief Data Officer. That’s a title you just didn’t see on the corporate ladder a few years ago.
+
+Hadoop, The Elephant In The Room
+
+The beauty of Big Data is less about the data gathering and more about making sense of it all. This year, we saw improvements to the software systems that power big data projects and increases in training for people who use Big Data tools.
+
+The Apache Software Foundation’s software project for processing Big Data collections, known as Hadoop, continued to capture the imaginations of data scientists everywhere. While there are many off-the-shelf software products that can collect and sort data, Hadoop, NoSQL databases and all other leading Big Data technologies are open source. Meaning they can be customized.
+
+This year saw the release of Hadoop 2.2, which increased the number of search tools that can be used, the capability to build apps right inside of Hadoop framework instead of extracting them and found Hadoop now officially supported on Microsoft Windows.
+
+The software community also seems to want to play well with others within the Hadoop framework. IBM, Cloudera, Netflix and LinkedIn are but a few companies that are contributing code to the greater good of cracking the Big Data nut.
+
+Other tools to build Big Data software are getting the royal treatment as well. In addition to Hadoop, programmers are incorporating MapReduce, Beyond Java, Scala, and C/C++ into various platforms.
+
+Show Me The Money
+
+Some of the biggest news around Big Data was the amount of money thrown at companies who can analyze bits and pieces of information.
+
+An estimated $3.6 billion was injected into startups focused on big data. Young companies like Palantir, MongoDB, Hortonworks, Cloudera, DataStax and Mu Sigma all saw their pocketbooks lined with venture capital funding.
+
+Acquisitions of Big Data companies were also popular. Google, Apple, Walmart, Facebook and IBM all added companies that specialize in Big Data analysis.
+
+Financial investors also took a liking to Big Data in 2013. Splunk, Tableau, and Rocket Fuel all transitioned from private to public companies this year. More companies in this category are expected to follow suit in 2014.
+
+So Much More To Learn
+
+The one trend in Big Data that pretty much all analysts agree on is that we don’t know where this is headed. Just understanding “what is Big Data” is a challenge for a significant number of people, according to researchers at Gartner.
+
+While many companies are looking at extracting information from their own data warehouses, the vast majority of businesses working on Big Data Projects have yet to include external data sources to their analysis. For Big Data, 2013 was the year of experimentation and early deployment.
+
+“Different industries have different priorities when it comes to big data,” Lisa Kart, research director at Gartner, said back in September. “Industries that are driving the customer experience priority are retail, insurance, media and communications, and banking, while process efficiency is a top priority for manufacturing, government, education, healthcare and transportation organizations.”
+
+As businesses and organizations now look forward to 2014, there is no denying that Big Data will have a major impact on their decisions, just as it had in 2013.
+
+Lead image courtesy of Flickr user t_buchtele via CC

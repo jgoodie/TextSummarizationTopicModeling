@@ -1,0 +1,163 @@
+Car racing TV coverage heads to customized future, thanks to Intel, Ferrari Intel's artificial intelligence partnership with Ferrari, announced at CES 2018, will involve aerial footage captured via drones, which will then be mixed and curated to create personalised feeds.
+
+Video: Car racing TV coverage heads to customized future, thanks to Intel, Ferrari
+
+Formula 1 teams are becoming increasingly reliant on technology, with sensors, servers, connectivity, unified communications, and cybersecurity solutions crucial for enabling the analysis of data to improve cars and raceday strategies.
+
+We look into how tech companies and connectivity providers like AT&T are helping F1 teams like Aston Martin Red Bull Racing, Mercedes-AMG Petronas, and Scuderia Ferrari get a head start in the championship kicking off this weekend in Melbourne, Australia.
+
+Data and comms: The new lifeblood of Formula 1
+
+Succeeding in Formula 1 is now all about the cycle of racing, measuring, analysing, developing, and then continually repeating this process, head of Technical Partnerships at Aston Martin Red Bull Racing Zoe Chilton said, with the team producing somewhere in the range of 1,000 new designs between every race in the calendar, or 30,000 for the season.
+
+"Everything we do is data driven," Chilton told ZDNet. "It's always about data, and it's always about planning ahead."
+
+Data is gathered from hundreds of sensors spread out over its cars during testing and racing, compiling information on performance and conditions to inform changes that should be made to the cars or driving strategies.
+
+Roadshow: Aston Martin returns to F1, plans 'core' mid-engine production car in 2021
+
+"Our car in racing trim has about 120 sensors across it, and they're looking at all sorts of different features," Chilton told ZDNet. "In the engine alone, you've probably got 40 or 50 which are looking at temperatures, pressures, timings, and just making sure the engine is healthy, and that data goes to Renault as our engine manufacturer.
+
+"And then across the rest of the car, we've got various sensors looking at airflow and air pressure to help us understand our aerodynamic position. And also things looking at temperature, making sure our brakes and our tyres are not overheating; making sure that everything is behaving itself, essentially."
+
+This data is connected back to the garage using radio with limited bandwidth, she said, so while the team cannot get all the data it would like during the race, it still gets "a good amount". It is then shared via trackside LAN with all team members present at the location, and around 400GB of data per race weekend is sent over an AT&T-provided network back to Red Bull Racing's UK headquarters.
+
+AT&T is therefore one of the team's "most crucial technical partner", according to Chilton. It provides a range of different services to the team, with the core being the global SD-WAN connection. With the team's decision-making time frame on whether a car needs to be brought into the pit sometimes in the range of just 45 seconds, Red Bull Racing is reliant on real-time communications between all engineers both trackside and in HQ, she said.
+
+"That kind of underpins everything that we do across race weekend. Included in that is a lot of support with unified comms tech," she added.
+
+Latency between the AT&T operations room in the UK and Melbourne -- the furthest race away from HQ -- is around 300 milliseconds, she said.
+
+Jason Yu, director of Strategy and Innovation for AT&T Australia and New Zealand, said it typically sends a team a couple of weeks before each Grand Prix to establish connectivity, so that when Red Bull Racing arrives they are ready to instantly plug in and go.
+
+According to Yu, AT&T -- which has been an "innovation partner" of Red Bull Racing for seven years -- provides the team with the "building blocks" of software-defined networking (SDN), collaboration, mobility, and security.
+
+"In terms of the network piece, we provide the global MPLS [multiprotocol label switching] network connectivity from each of the racetracks back through to the UK headquarters," Yu told ZDNet.
+
+"At every single race, we'll come in and install high-speed capacity and infrastructure into the racetrack and into the pits, we have a team of experts that do end-to-end testing, and it will be managed then over the course of the race."
+
+A dedicated team of AT&T engineers always travels alongside Red Bull Racing to create and install the infrastructure and ensure it is up and running 24/7, with Yu adding that AT&T's initiative to virtualise 75 percent of its network by 2020 will benefit the team by taking the deployment of software down to mere minutes.
+
+"Data is the oxygen for the enterprise, and there's no better industry, there's no better example, of how data is critical to the business other than Formula 1," Yu said.
+
+"The partnership that AT&T has with Red Bull Racing is really, really key to the success of Red Bull Racing."
+
+Relying on sensors: Formula 1 is 'no gut-feeling sport anymore'
+
+As one of the top-ranking drivers in Formula 1, Valtteri Bottas -- who came third in the 2017 championship -- of the Mercedes-AMG Petronas team told ZDNet that sensors are becoming increasingly important for decisions made by the drivers during races.
+
+"It helps us, because from all the data we always learn something ... in the future, we will have more performance in the car by learning what we need to do with the car," Bottas told ZDNet.
+
+"[Data] allows us to get a lot from every single run, especially day after day, weekend after weekend; we can make some big gains. If we wouldn't have all the information, it would be very difficult and kind of guesswork to go forward."
+
+(Image: Corinne Reichert/ZDNet)
+
+Mercedes-AMG Petronas F1 team executive director Toto Wolff echoed these comments, telling ZDNet that Formula 1 is "no gut-feeling sport anymore"; collecting and analysing data points is now crucial to the team's race strategy in helping to defend the constructors' championship title.
+
+However, Wolff said it is not just about collecting a massive amount of data; it's also about making sure you know what to do with it so it doesn't just become more noise in the garage.
+
+"The more data you collect, but more importantly the more you are able to digest and analyse data, the better you will have your car and driver perform," Wolff told ZDNet.
+
+"It is all about data. You can plug 1,000 sensors in the car, you will generate a million data points, but if you don't understand which data is important and how to digest them and implement them on the car, it's going to confuse you rather than bring answers.
+
+"This is one of the tricks in Formula 1."
+
+Tata provides the connectivity solutions for Mercedes-AMG Petronas, but the F1 team comes up with its own "home-grown" apps and software to devise strategies on how to use all the data it gathers, Wolff told ZDNet. The team tries to improve this process each year and ensures it owns the intellectual property.
+
+Securing data to maintain the secrecy behind F1 teams
+
+With so much data being produced by each team, Chilton pointed again to the 1,000 new designs on average made for the Red Bull Racing cars each week, saying there is just no time to protect the individual IP rights on these.
+
+The team is therefore reliant on data security to protect its ideas.
+
+"We're transmitting some really high-value IP day to day, and securing that is a huge concern for us," she said.
+
+"We don't patent or protect anything, because we don't have time, so everything we do is about keeping it secret. Our whole business is around keeping things under wraps and making sure it's confidential.
+
+"Because we're a very public entity ... we're a very attractive target."
+
+Red Bull Racing also relies on AT&T for its security solutions, with the tech company utilising its security operations centre in the US to conduct threat analysis and ensure early warning and visibility.
+
+AT&T then provides real-time monitoring and assistance in managing incidents when they do arise; it enables Red Bull Racing to reduce the risk of IP leakage; and it protects against internet-based threats, she said.
+
+Also speaking during the Australian Grand Prix this weekend in Melbourne was Eugene Kaspersky, whose company has been providing endpoint security solutions for the Scuderia Ferrari F1 team since 2012.
+
+The CEO told ZDNet that Ferrari has expanded its contract out until 2021.
+
+Roadshow: Ferrari 488 Pista is a specialized track-day weapon
+
+"We constantly expand our research and product solutions in the area of automotive and transportation cybersecurity," Eugene Kaspersky told ZDNet.
+
+"Currently in addition to protecting traditional areas of company technology such as endpoints, we also work with Ferrari to protect their digital infrastructure through pen testing, vulnerability assessment, and threat intelligence."
+
+Kaspersky's endpoint solution was originally installed across thousands of Scuderia Ferrari computers, tablets, and devices back in 2013 to ensure the protection of the team's technical and social data during its transfer between the Ferrari factory in Maranello and each racetrack across the globe.
+
+"Together with the Ferrari ICT department, Kaspersky Lab had tailored an endpoint solution that met Ferrari's specific needs," Kaspersky said upon renewing the deal in 2015.
+
+"This solution had been developed after six months of rigorous compliance testing and benchmarking against other IT security providers."
+
+Making use of every technology available
+
+With tech also needing to take care of the day-to-day and raceday office needs of Formula 1 teams, Wolff lauded the close partnership between Mercedes-AMG Petronas and printing company Epson.
+
+"It is a real technology partnership that adds performance to our car. We have Epson products everywhere: We have printers everywhere in the factories, I think more than 100, [and] we're using the products on-track," Wolff said.
+
+"We print everything from normal documents to the big displays on the tracks ... the product is vital and necessary for the race team in all kinds of areas," he said, adding that the Mercedes-AMG Petronas team had pared down its number of partnerships five years ago to stick only with the companies that aligned with its "vision".
+
+In terms of collaboration, the AT&T partnership with Red Bull Racing also sees the former provide mobility and tablets for the team, as well as Cisco unified comms products including Jabber and WebEx, and smartboard and telepresence solutions, with all comms in the garage done using VoIP.
+
+(Image: Supplied)
+
+AT&T helps run a trackside telemetry desk at each race, as well as a dedicated operations room back in the Red Bull Racing HQ in the UK.
+
+While AT&T brings the connectivity equipment, Red Bull Racing transports its own computing at the edge, including servers and a mini-datacentre, to each track.
+
+"We've just introduced a whole bunch of new trackside servers which are HPE SimpliVity gear," Chilton told ZDNet, adding that other improvements include network function virtualisation, which is "a huge benefit because it means that we're not carting around so many boxes, so many different pieces of equipment".
+
+"The startup times for those racks is critical ... we're relying on that resource to handle the data, handle the processing."
+
+These mini-datacentres process and analyse data at the circuit, but also back up the information being extracted from each car in case they lose connectivity, although Chilton said AT&T has never had a service failure during a race weekend.
+
+Chilton additionally told ZDNet that Red Bull Racing makes use of IBM's spectrum suite of software, and Citrix's VDI capabilities in order to transfer virtual machine data between trackside and factory -- "and they again are using that incredibly fast AT&T connection to facilitate that," she said.
+
+While the teams competing in the F1 championship are keen to adopt new technologies, however, Bottas told ZDNet that he is hoping autonomous vehicle tech does not become a part of Formula 1 racing.
+
+"I hope not," he said. "I would lose my job."
+
+Formula 1 pushing digital initiatives
+
+While the teams are all racing to utilise technology in a way that improves their performance, the company that owns Formula 1 itself is undertaking a digital transformation, global head of Digital Frank Arthofer told ZDNet last month during Mobile World Congress (MWC) 2018.
+
+According to Arthofer, Formula 1 has three main consumer-centric goals for its digitisation program: Social media; core platforms; and esports, with a focus on how to monetise these.
+
+Beyond the consumer initiatives is a "series of research and development and back-end technology initiatives", Arthofer told ZDNet in Barcelona, such as 360-degree cameras and sound amplification on the cars.
+
+Much of this R&D is done in-house with proprietary technology, as is Formula 1's ad-track tech, while the consumer-focused tech is third-party produced.
+
+In regards to collecting sensor data on cars, Arthofer told ZDNet that Formula 1 does much of this in-house by itself.
+
+"We're collecting, I think it is like, some 3,000 pieces of data every second from every car on the track, in a real-time basis, so it's pretty remarkable data capture," he said.
+
+"The next two steps are to make sure the data accuracy is 100 percent correct, and then start to productise that, how to turn it into consumer-facing products and platforms."
+
+F1's major announcement last month was its F1 TV Pro and F1 TV Access products, which Arthofer called "the most substantial launch as part of our digital transformation journey," as well as marking its biggest investment in digitisation.
+
+The product utilises 20 on-board cameras plus additional feeds, with F1 TV Pro a live OTT broadcast service while F1 TV Access is a replay-, radio-, and data-based complementary service. The former will launch in around 40 markets including the US, Germany, France, Turkey, Austria, Hungary, Belgium, Mexico, and other Latin America nations; while the latter will launch everywhere.
+
+Pro cannot launch in regions where broadcasters hold the digital platform rights to F1, such as in Australia, where the first race of the 2018 season is kicking off this weekend.
+
+"We prioritise the fan experience, and our feeling was while our broadcasters do a great job broadcasting to a wide audience, there is a subset of Formula 1 fans ... of the 500 million people who are F1 fans globally, if 1 percent of them are super, super hardcore, you could argue that they're potentially underserved by broadcast," Arthofer told ZDNet.
+
+F1 is working with Tata on the service, which is priced at between $8 and $12 per month, with Arthofer pointing out that the company has been a "valued" global partner for six years now.
+
+"They [Tata] provide all our connectivity at the race, so all of the on-boards that are delivered back to our streaming partner are delivered by Tata, and then they also ingest the feeds and then deliver CDN [content delivery network] connectivity, so last mile to the fan," he explained to ZDNet.
+
+"We have a second technology partner that is not yet announced, but will be in the coming weeks and months."
+
+Tata Communications F1 Business MD Mehul Kapadia called Formula 1's mobile strategy "ambitious" and industry-leading, with the service added to F1.TV on March 22 to coincide with the Melbourne GP. It will next be rolled out across Android and Apple on mobile and tablet in April; rolled out to connected TVs in late April or early May; and will add Chromecast and Airplay functionality in "the pretty short-term roadmap".
+
+"The goal is make sure we have a very stable platform, because 24 simultaneous streams is somewhat unprecedented in the market," Arthofer said.
+
+"As soon as we validate that, we'd like to roll out platforms and feature sets in a pretty aggressive way."
+
+Disclosure: Corinne Reichert travelled to the Formula 1 Australian Grand Prix in Melbourne as a guest of AT&T
