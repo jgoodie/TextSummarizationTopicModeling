@@ -1,0 +1,15 @@
+Researchers say they have developed a method to store data permanently in a memory chip using light. The breakthrough, published in the journal Nature Photonics, could lead to significantly faster computers in the future.
+
+To store data, it is essential a device must be able to work when power is both on and off – think of a CD, DVD or hard drive. But computers are limited in their speed by the transmission of electric data between a processor and the memory stored in these devices – called the von Neumann bottleneck. This means that faster processors don't necessarily mean better computing power, when it is the transmission speed of the data that is the limiting factor.
+
+Using light, or photons, to transfer data could therefore allow for much greater speeds. But until now, scientists had struggled to find a way to create a light-based device that can store data for a significant period of time.
+
+“There’s no point using faster processors if the limiting factor is the shuttling of information to-and-from the memory,” said University of Oxford's Professor Harish Bhaskaran, who led the research, in a statement. “But we think using light can significantly speed this up.”
+
+In this research, which also included the University of Münster, the Karlsruhe Institute of Technology and the University of Exeter, the team created the world’s first all-photonic non-volatile memory chip. It uses a material called Ge2Sb2Te5 (GST), which is also used in rewritable CDs and DVDs, to store data.
+
+Pulses of light can change the material's state from an ordered to a random state, or crystalline to amorphous. This change can be used to store information, in the form of 1s and 0s, for decades. And using a technique known as multiplexing – which involves sending and directing different wavelengths of light down a silicon nitrate waveguide – a single pulse can write and read data simultaneously, providing “virtually unlimited bandwidth,” Professor Wolfram Pernice of the University of Münster said in the statement.
+
+“This is a completely new kind of functionality using proven existing materials,” added Professor Bhaskaran. “These optical bits can be written with frequencies of up to one gigahertz and could provide huge bandwidths. This is the kind of ultra-fast data storage that modern computing needs.”
+
+The team will now work to develop the technology, including finding ways to perform more tasks using light instead of electrical signals.

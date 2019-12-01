@@ -1,0 +1,83 @@
+In 2019, it’s highly possible to make a living as an illustrator without learning how to draw in the classical sense. Virtually anyone can produce professional-looking artwork using illustration software and digital tools. Clumsy drawing gestures snap into perfect shapes, stock digital brushes generate instant texture, and a few mouse clicks can result in a perfectly convincing composition.
+
+Technology is one reason why editorial illustrations are looking flatter, sharper, and arguably more generic. It’s hard to miss the trend.
+
+Here’s an example on the Quartz app:
+
+Another instance in the New York Times opinion section:
+
+On the cover of Los Angeles magazine
+
+On Time magazine:
+
+A recent instance in Le Monde:
+
+The illustration style even routinely appears on the cover of The New Yorker:
+
+Note that all these examples were made by different illustrators.
+
+Query the word “illustration” on Google Image search and you’ll see these type of results.
+
+Quartz Google Image results for “illustration”
+
+The vector-based style, characterized by flat colors, simple shapes and a pared-down color palette, doesn’t have an official name. It’s most widely referred to as “flat illustration” or, pejoratively, “Corporate Memphis,” alluding to its frequent appearance in ads and interfaces for tech companies like Lyft, Spotify, Oscar, Airtable, and many others. Facebook calls its “gangly-armed” cartoon figures “Alegria.”
+
+Alex Eben Meyer, a Brooklyn-based illustrator who works in style, prefers describing his work as computer-made collage. “I think of my work more as shape-driven,” he explains. “When I am creating my images, I’m putting together shapes and pieces, practically an illustration cut paper collage.”
+
+It’s useful to point out that the word “flat” doesn’t mean boring or uninspired. There are in fact many editorial illustrators working in this style who manage to inject wit, personality, and invention, like Meyer and the illustrators in the publications cited above.
+
+How did this style come to define today’s illustration practice? The answer boils down to three T’s: technology, taste, and terrible pay.
+
+The trap of technology
+
+Flat illustrations, for lack of a better term, is a subset of a style called “flat design.” It’s the design principle behind the scourge of minimalist logo makeovers that’s prevalent in corporate branding. A rejection of the skeuomorphism trend in the 2000s, flat design’s ultimate goal is to ensure that graphic elements work well in various digital displays—from tiny Apple Watch screens to building-sized banners.
+
+“Flat design is about embracing the native format of digital,” explains Andrew Allen, WeTransfer’s head of product who co-developed a popular drawing app called Paint. “Computers want to render simple forms. Even with high-definition screens, flat shapes tend to load faster and scale easier.”
+
+Like any other artistic medium, the tendencies of technology manifest on the finished work. Programs like Adobe Illustrator have many shortcuts to help illustrators automate the production of geometric forms, color palettes, and other effects. A trained eye will recognize stock tools and preprogrammed brushes, like the oft-used Kyle Webster brushes in Photoshop.
+
+Most editorial illustrators today prefer working on the computer for the sake of efficiency. “Working in Adobe Illustrator allows me to change sizes, move pieces, thus giving me a great deal of flexibility when it comes to editorial work,” explains Meyer. “This allows me to quickly and easily make changes in order to get the piece right.”
+
+Digital illustrations are also easier to animate. Time Out, Bloomberg Businessweek, The New Yorker, and Elle are among the growing list of publications experimenting with animation and augmented reality as a bonus for digital subscribers. David Hockney’s beguiling iPad sketches featured in The New Yorker are early examples of this innovation.
+
+Shanghai-born illustrator Xiao Hua Yang says technology can be both freeing and limiting. “It makes things easier and faster. But there’s always going to be a disconnect between your brain, your hand, and the computer,” he explains. Even after years of using Photoshop, Yang says he’s still learning new features every day. With the frequency of software updates, drawing with Adobe’s software can often feel like working with an infinitely shape-shifting brush. “Nobody can be perfectly fluent in technology,” he observes.
+
+Yang says social media also contributes to the lack of heterogeneity in editorial work. “If you see an illustration on Instagram has 10,000 likes, you’ll likely be curious about the techniques used.”
+
+The effect of technology doesn’t end with drawing tools, adds Allen. “I think it affects the process, too. You take some of the ideas of product-building [software development] into illustration, like the agile method, which is this idea of working fast and iterating rather than producing one final piece.” An illustrator’s ability to change elements on the fly allows them to respond to requests from clients faster and cheaper. This won’t necessarily be the case for a watercolor painting.
+
+A taste and tolerance for vector art
+
+Earlier this year, a tweet from The Baffler’s art director Lindsay Ballant caused a firestorm.
+
+Many were angered by how she appeared to shame professional illustrators on Twitter. The kernel of Ballant’s criticism was about content and tone, arguing that “cutesy, friendly, utopian” artwork wouldn’t be appropriate for The Baffler’s heady articles about NATO’s foreign policy or the failed revitalization of Appalachia. Everyone, however, was hung up on the words “flat aesthetic.”
+
+Ikko Tanaka: Design idol: Ikko Tanaka’s Nihon Buyo, 1981.
+
+Minimalist flat-colored illustrations have of course appeared in publications prior to this decade. The Japanese graphic designer Ikko Tanaka, for instance, built an international reputation for his wonderful geometric designs in the 1980s. His editorial and commercial work offered a pleasing counterpoint to the scrapbook punk aesthetic of the decade. Many digital illustrators working in the flat style also cite artists Ellsworth Kelly and Henri Matisse’s cut paper collages as influences.
+
+Khoi Vinh, Adobe’s senior principal designer and former design director of the New York Times suggests that “the prevalence of a single, monocultural aesthetic” might be blamed on software development firms who cling to the flat design aesthetic. In a 2018 blog post, Vinh warns us not to lump all digital illustrations into one category—or Pinterest board. “Product illustrations are there to make the user’s experiences easier; editorial illustrations are there to make the reader’s experience more interesting—even more challenging.”
+
+Meyer, whose illustrations have appeared in the New York Times, Time and Chicago magazine, argues that it’s less about the media but about the quality of ideas. He isn’t particularly worried that other illustrators are using similar vector tools. “I think it is less about an artist working in a particular genre and more about having a strong point of view, ideas, style, and craft,” he explains. “For me personally, color (regardless of depth) and humor are some of my most important attributes.”
+
+The economics of editorial illustration
+
+Ultimately, it’s a matter of money. Illustrators strive for efficiency to fulfill more assignments to cobble together a living wage. A US-based editorial illustrator earns an average of $47,000 a year, according to the job site Indeed.com. The US Bureau of Labor Statistics doesn’t have a category for illustrators. They fall between “craft and fine artists” and “multi-media artists and animators,” which are significantly different jobs. The average annual salary is these two categories are $48,960 and $72,520 respectively.
+
+Dismal pay isn’t just an American phenomenon. In a 2018 global survey of 1,400 illustrators, Ben O’Brien, a Somerset-based freelance illustrator, found that 70% of illustrators believe that they can’t survive on drawing alone. Over half of the respondents confessed that they often feel uncomfortable negotiating rates.
+
+In writing a book about the glory days of magazine design, I learned that in the 1970s, New York magazine paid illustrators what was then considered a “miserly amount” of $100 for spot illustrations. Adjusted for inflation, that’s $650—which is still somehow more than the $250 to $500 illustrators can expect today.
+
+For a cover illustration, Time’s former art director Walter Bernard recalls paying $2,000 (equivalent of $8,473 in 2019) during his tenure as art director from 1977 to 1980. (For context, the median household income in the US in 1977 was $13,570.) Four decades later, Time’s rate appears to have barely budged. The magazine paid $3,000 for a cover illustration in 2014, according to a survey published on Format.
+
+The subject of fair compensation came up again this week among Brooklyn-based illustrators. It’s not just the dismal pay. It appears that illustrators are still constantly being asked for pro-bono work.
+
+“It’s remarkable how often I’m still asked to work for free or a reduced rate as if making art is a bit of a silly hobby,” writes British illustrator Jon Burgerman on Instagram. “Only a month or so ago I was invited to create a cute cartoon logo for a new business here in New York City…and the fee was nothing! Instead I was offered ‘favors in the art world’!”
+
+Bernard says there was a time when it was possible for illustrators to live handsomely. Norman Rockwell, best known for beloved Saturday Evening Post covers and Coca-Cola ads, was a millionaire when he died in 1978. “Rockwell was not the stereotypical artist who ‘struggled to make ends meet,'” writes economist Elliott Morss. He left an estate worth more than $26 million.
+
+Apart from the sliding editorial rates, illustrators also have to compete with stock illustrations offered on sites like iStock (owned by Getty), Adobe Stock, the iSpot, IKON Images, and the Illustration Source. The pensive ape on top of this post, for instance, can be instantly downloaded for under $10 with a subscription plan with Getty.
+
+The pressure to produce more work eradicated time for experimentation and refinement. While illustrators like James McMullan might hire live models or observe theater performers to draw a figure, a time-crunched, cash-strapped illustrator today will cling to available shortcuts. The bounty of articles about “illustrator tips and tricks” attest to this.
+
+In a 1968 essay on style (pdf), art historian Ernst Gombrich reminds us that every artistic movement in history is a mirror of an era’s preoccupations. In our case, the golden age of flat illustration speaks to our obsession with technology, speed, and survival.

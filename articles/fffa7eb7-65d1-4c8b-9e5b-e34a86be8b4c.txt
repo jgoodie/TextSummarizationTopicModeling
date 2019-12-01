@@ -1,0 +1,33 @@
+Windows 10 version 1909: Why this feature update should be a pleasant surprise Microsoft is getting the November 2019 Update ready for release to the general public. Ed Bott explains what makes this update different from the feature updates you’ve come to dread. Read more: https://zd.net/2P1kysX
+
+Tired of boring, buggy Windows 10 updates? You can blame them on Microsoft CEO Satya Nadella's failure to eliminate the company's legacy of appointing "made-men".
+
+Nadella has done a lot to change the image of the company, splitting up the Windows and Devices Group earlier this year. But former Microsoft distinguished engineer James Whittaker reckons Microsoft's history of appointing "made-men" explains the current state of Windows 10.
+
+Whittaker has posted a lengthy critique on Medium of Nadella's efforts to transform Microsoft. But while commending Nadella on some changes, he thinks the CEO needs to do more to stop the appointment of males who became successful by emulating Microsoft co-founder Bill Gates and former CEO Steve Ballmer.
+
+"Microsoft clearly understands it has a problem. If it didn't, it wouldn't be fighting such a public fight to reinvent itself. My message is simple: you can't leave an outdated culture behind while continuing to worship its icons," he argues.
+
+SEE: The state of women in computer science: An investigative report (cover story PDF)
+
+Whittaker reckons it's this historical approach that can explain Microsoft's ongoing troubles with Windows 10.
+
+Microsoft's latest Windows 10 updates have almost all come with some unexpected bugs, despite recent efforts to overhaul the Windows servicing strategy after the stalled Windows 10 version 1809 update.
+
+While he commends Nadella for picking unlikely candidates for senior roles in Microsoft's cloud business after becoming CEO, that didn't happen for Windows, which he argues is why it continues its "tradition of boring, buggy software and consistently fumbled updates".
+
+"It's worth noting that cultural transformation didn't happen in places, like Windows, where Nadella simply rearranged the made-men deck chairs," he writes.
+
+"Instead of following his culture-change playbook, he simply swapped Windows' made-men with Windows Phone's made-men."
+
+"The same people unable, over the course of a decade, to craft a winning strategy for mobile were suddenly tasked with crafting a winning strategy for the desktop. The unsurprising result is that Windows continues its tradition of boring, buggy software and consistently fumbled updates."
+
+SEE: Microsoft: Don't install Windows 10 1809 October 15 update, it breaks Defender ATP
+
+Whittaker doesn't name any current execs here, but Microsoft's current Windows leadership can be seen in ZDNet's coverage of the Windows and Devices Group shakeup.
+
+He also notes there is "real talent" in the Windows team. However, their ideas are buried under "layers of made-men".
+
+ZDNet has asked Microsoft for its comments on Whittaker's post and will update the story if it receives a response.
+
+More on Microsoft and Windows 10 updates
